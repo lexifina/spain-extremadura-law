@@ -1,0 +1,2 @@
+Disposición transitoria única.
+Se declara expresamente en vigor el Capítulo II del Decreto 55/2000, de 8 de marzo, por el que se crea el Consejo Asesor de Cooperación para el Desarrollo, manteniendo su actual composición y sin perjuicio de las nuevas competencias que le atribuye la presente Ley. En el plazo máximo de un año a contar desde la entrada en vigor de este texto legislativo se desarrollará reglamentariamente la estructura, composición y funcionamiento del citado Consejo.
