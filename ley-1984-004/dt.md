@@ -1,0 +1,2 @@
+Disposición transitoria.
+Con carácter excepcional para el primer año de vigencia de la Ley de Ferias y Mercados de la Comunidad Autónoma de Extremadura, las Instituciones Feriales cualquiera que sea su categoría, para la organización de una feria dentro de Extremadura, deberán solicitar su autorización a la Consejería de Agricultura y Comercio, al menos con dos meses de antelación a su celebración.
