@@ -1,0 +1,14 @@
+CAPÍTULO VI
+Régimen Jurídico de las Zonas de la Red Natura 2000
+Se añade por el art. único.27 de la Ley 9/2006, de 23 de diciembre. Ref. BOE-A-2007-1725.
+Artículo 56 bis. Declaración de las Zonas de la Red Natura 2000.
+1. La declaración de las Zonas de Especial Protección para las Aves se realizará mediante Decreto del Consejo de Gobierno dictado a propuesta de la Consejería competente en materia de medio ambiente.
+2. La lista de aquellos lugares de la Comunidad Autónoma de Extremadura que se propongan como de Importancia Comunitaria se aprobará por Acuerdo del Consejo de Gobierno a iniciativa y propuesta de la Consejería competente en materia de medio ambiente.
+Dicha lista será remitida al Ministerio de Medio Ambiente para su propuesta a la Comisión Europea.
+3. La declaración como Zonas Especiales de Conservación de un lugar incluido en la propuesta de Lugares de Interés Comunitario acordada por la Comunidad Autónoma de Extremadura se realizará mediante Decreto del Consejo de Gobierno dictado a propuesta de la Consejería competente en materia de Medio Ambiente, en el plazo máximo de seis años a contar desde que la Comisión Europea haya aprobado la lista de Lugares de Importancia Comunitaria propuesta.
+4. La Consejería competente en materia de medio ambiente deberá evacuar los siguientes trámites, con carácter previo a elevar la correspondiente propuesta al Consejo de Gobierno:
+a) Consultas durante el plazo de un mes a las asociaciones e instituciones más representativas que persigan el logro de los objetivos del artículo 2 de la presente Ley. En todo caso, serán consultados los Ayuntamientos cuyos términos municipales pudieran resultar incluidos total o parcialmente en el ámbito territorial del proyecto, así como las organizaciones agrarias y sindicales más representativas de la Comunidad Autónoma y de la zona susceptible de declaración.
+b) Petición de informe, que deberá emitirse en el plazo de un mes, a otros órganos de la Comunidad Autónoma de Extremadura o a otras Administraciones públicas que tengan atribuidas competencias sectoriales en el ámbito del Proyecto.
+c) La Dirección General u Órgano competente en materia de medio ambiente, someterá el proyecto aprobado inicialmente a información pública por un plazo de un mes. El acuerdo se publicará en el «Diario Oficial de Extremadura», y podrá disponerse su inclusión en los medios de comunicación regional de mayor difusión en el ámbito territorial afectado. Finalizado aquel plazo, y una vez examinadas las alegaciones, se responderán razonadamente, todo ello en el plazo de dos meses.
+d) Solicitud de informe al Consejo Asesor de Medio Ambiente, que deberá emitirse en el plazo máximo de un mes a contar desde la celebración de la sesión en la cual se hubiera sometido a consideración el Proyecto.
+Se añade por el art. único.27 de la Ley 9/2006, de 23 de diciembre. Ref. BOE-A-2007-1725.

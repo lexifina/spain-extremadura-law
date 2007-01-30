@@ -1,0 +1,4 @@
+Artículo 27 sexies. Espacios naturales protegidos transfronterizos.
+1. Se podrán constituir espacios naturales protegidos de carácter transfronterizo, mediante la suscripción de los correspondientes Acuerdos Internacionales entre los correspondientes Estados.
+2. A los efectos de lo previsto en esta Ley, tendrán esta consideración aquellos espacios dedicados especialmente a la protección y el mantenimiento de la diversidad biológica y de los recursos naturales y culturales asociados que estén integrados, al menos, por un Espacio Natural Protegido establecido de conformidad con lo dispuesto en la presente Ley y por un área natural adyacente, situada en el territorio nacional que comparta una frontera con Extremadura y sujeta a un régimen jurídico especial para la conservación de su biodiversidad.
+Se añade por el art. único.11 de la Ley 9/2006, de 23 de diciembre. Ref. BOE-A-2007-1725.

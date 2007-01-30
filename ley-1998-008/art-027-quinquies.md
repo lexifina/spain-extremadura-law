@@ -1,0 +1,3 @@
+Artículo 27 quinquies. Áreas privadas de interés ecológico.
+Con el fin de complementar la acción pública en materia de protección de la biodiversidad y contribuir a la protección de áreas naturales que ofrezcan un interés singular desde el punto de vista ecológico o paisajístico, cualquier persona física o jurídica podrá solicitar de las Autoridades competentes, en los términos que legalmente se determinen, la constitución de un área de interés ecológico sobre un terreno de su propiedad, o propiedad de un tercero si dispone de la autorización pertinente. La declaración de estas áreas conllevará el establecimiento de un régimen de compatibilización de usos con los fines perseguidos.
+Se añade por el art. único.11 de la Ley 9/2006, de 23 de diciembre. Ref. BOE-A-2007-1725.
