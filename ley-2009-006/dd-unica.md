@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan expresamente derogadas la Ley 3/1986, de 24 de mayo, de la Extremeñidad, y el Decreto 82/1994, de 31 de mayo, de Organización y funcionamiento del Consejo de Comunidades Extremeñas y del Registro de Asociaciones de la Emigración Extremeña. Asimismo, quedan también derogadas cualesquiera otras disposiciones, de igual o inferior rango, en cuanto contradigan lo dispuesto en la presente Ley.
