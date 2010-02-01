@@ -1,0 +1,2 @@
+Disposición adicional única.
+En un plazo no superior a tres meses desde la fecha de constitución del Consejo Social de la Universidad de Extremadura, la Dirección General de la Junta de Extremadura competente en materia de enseñanzas universitarias remitirá al Consejo Social el texto de la propuesta de Reglamento de organización y funcionamiento interno, para la elaboración del informe a que se refiere el artículo 10.
