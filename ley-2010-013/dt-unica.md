@@ -1,0 +1,2 @@
+Disposición transitoria única. Régimen transitorio.
+Hasta tanto no se desarrolle reglamentariamente lo previsto en la presente norma resultará de aplicación lo previsto en el Decreto 136/1996, de 3 de septiembre, por el que se aprueba el Reglamento de desarrollo de la Ley 1/1985, de 24 de enero, del Consejo de la Juventud de Extremadura en lo que no resulte incompatible con lo dispuesto en aquélla.
