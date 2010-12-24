@@ -1,0 +1,2 @@
+Disposición adicional única. Suspensión del procedimiento de creación, calificación o constitución de una mancomunidad.
+En el caso de que durante la tramitación de un procedimiento de creación, calificación o constitución de una mancomunidad se celebraran elecciones municipales en cualquiera de las entidades locales que intervengan en él, éste quedará en suspenso hasta tanto sean designados los nuevos representantes de los municipios y entidades locales menores que resulten del proceso electoral.

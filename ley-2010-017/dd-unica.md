@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación expresa.
+Quedan derogadas cuantas disposiciones normativas anteriores adoptadas por la Comunidad Autónoma de Extremadura se opongan a las previsiones de esta ley y, en concreto, el apartado 3 del artículo 1 y la disposición transitoria primera del Decreto 74/2008, de 25 de abril, por el que se establece un fondo de cooperación para las mancomunidades integrales de municipios de Extremadura.
