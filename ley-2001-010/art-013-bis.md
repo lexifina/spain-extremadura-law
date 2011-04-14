@@ -1,0 +1,5 @@
+Artículo 13 bis. Consejo Regional de Pacientes de Extremadura.
+1. Con la finalidad de promover la participación formal de los pacientes en el Sistema Sanitario Público de Extremadura, se creará el Consejo Regional de Pacientes de Extremadura, adscrito a la Consejería competente en materia de sanidad, como órgano colegiado de carácter consultivo, de participación comunitaria y de coordinación en relación con las actividades que desarrollan las asociaciones de pacientes en la Comunidad Autónoma de Extremadura.
+2. El Consejo Regional de Pacientes de Extremadura tendrá como objetivo general promover la coordinación, articulación, planificación estratégica, gestión y evaluación de las actividades relacionadas con la participación de las instituciones de pacientes y familiares de afectados con ámbito de actuación en la Comunidad Autónoma de Extremadura en el Sistema Sanitario Público de Extremadura.
+3. La composición, organización, funcionamiento y atribuciones del Consejo Regional de Pacientes de Extremadura serán objeto de desarrollo reglamentario.
+Se añade por la disposición final 1.2 de la Ley 7/2011, de 23 de marzo. Ref. BOE-A-2011-6650.
