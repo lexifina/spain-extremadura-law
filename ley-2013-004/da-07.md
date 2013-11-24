@@ -1,0 +1,2 @@
+Disposición adicional séptima. Igualdad de género en el lenguaje.
+En los casos en que esta Ley de Gobierno Abierto de Extremadura utiliza sustantivos de género gramatical masculino para referirse a personas, cargos o puestos de trabajo, debe entenderse que se hace por mera economía en la expresión, y que se utilizan de forma genérica con independencia del sexo de las personas aludidas o de los titulares de dichos cargos o puestos, con estricta igualdad en cuanto a efectos jurídicos.
