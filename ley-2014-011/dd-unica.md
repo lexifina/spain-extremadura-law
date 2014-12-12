@@ -1,0 +1,2 @@
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta ley, y en concreto la Ley 8/1997, de 18 de junio, de Promoción de la Accesibilidad en Extremadura, el Decreto 8/2003, de 28 de enero, por el que se aprueba el Reglamento de la Ley de Promoción de la Accesibilidad en Extremadura y la Orden de 7 de junio de 1999, por la que se establece el modelo de tarjeta de aparcamiento para discapacitados, sin perjuicio de lo previsto en la disposición transitoria primera.
