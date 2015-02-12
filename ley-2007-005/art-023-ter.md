@@ -1,0 +1,3 @@
+Artículo 23 ter. Embargo de dinero en cuentas a la vista abiertas en entidades de crédito.
+El embargo de fondos, valores u otros bienes entregados o confiados a una entidad de crédito, en los términos establecidos por el artículo 171 de la Ley 58/2003, de 17 de diciembre, General Tributaria, y en relación con las deudas tributarias cuya recaudación en periodo ejecutivo tenga encomendada la Administración Tributaria de la Comunidad Autónoma de Extremadura, se realizará siempre por proceso telemático, con independencia del importe de la deuda que motive dicha actuación.
+Se añade por el art. 57 de la Ley 1/2015, de 10 de febrero. Ref. BOE-A-2015-2340.
