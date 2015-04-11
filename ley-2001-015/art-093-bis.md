@@ -1,0 +1,5 @@
+Artículo 93 bis. Constitución de derechos de superficie sobre bienes del patrimonio público del suelo.
+1. En los derechos de superficie que se constituyan sobre bienes de la Administración de la Comunidad Autónoma de Extremadura o de los municipios que se encuentren integrados en sus patrimonios públicos de suelo, el superficiario asumirá la obligación de destinarlo a la construcción de viviendas sujetas a algún régimen de protección pública, o a cualquier otro uso a que puedan destinarse éstos siempre y cuando no sean contrarios al régimen de usos que, de acuerdo con su calificación urbanística, permita el planeamiento.
+2. La constitución de derechos reales de superficie que graven terrenos pertenecientes al patrimonio público del suelo se regirá por las mismas normas que las previstas para su enajenación.
+3. El derecho real de superficie se regirá por las disposiciones básicas previstas en la legislación del suelo del Estado, por la legislación civil en lo no previsto en ella y por el título constitutivo del derecho.
+Se añade por el art. único.26 de la Ley 10/2015, de 8 de marzo. Ref. BOE-A-2015-5013.

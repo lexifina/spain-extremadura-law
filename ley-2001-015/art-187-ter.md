@@ -1,0 +1,8 @@
+Artículo 187 ter. Licencias en supuestos de interés general.
+1. En casos excepcionales y justificados en razones de interés general, el Ayuntamiento podrá conceder licencia urbanística para la implantación de usos industriales o de servicios, previamente al cumplimiento íntegro de los deberes urbanísticos de urbanización, cesión y equidistribución exigibles, siempre que se cumplan las siguientes condiciones:
+a) Que esté aprobado y vigente el instrumento de planeamiento urbanístico que establezca la ordenación detallada de los terrenos, y que el uso propuesto sea el previsto en el mismo.
+b) Que el promotor se comprometa expresamente mediante documento público, con anterioridad al otorgamiento de la licencia, a cumplir íntegramente los deberes urbanísticos pendientes.
+c) Que se constituya una garantía para asegurar dicho cumplimiento en cualquiera de las formas admitidas por la legislación aplicable a la Administración municipal, por el importe íntegro de los gastos de urbanización correspondientes sin cuyo requisito no podrá darse comienzo a la ejecución de las obras.
+d) Que se incluyan las condiciones anteriores en cualquier transmisión, a título gratuito u oneroso, a terceros de derechos de uso o propiedad.
+2. Las licencias otorgadas conforme a este artículo deberán motivar y fundamentar expresamente el supuesto de interés general que las justifique. Las condiciones especiales que incluyan, entre las que debe figurar el compromiso de cumplimiento íntegro de los deberes urbanísticos, deben hacerse constar expresamente en la correspondiente licencia urbanística
+Se añade por el art. único.39 de la Ley 10/2015, de 8 de abril. Ref. BOE-A-2015-5013.
