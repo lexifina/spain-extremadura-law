@@ -1,0 +1,2 @@
+Disposición adicional decimotercera. Inexigibilidad de garantía financiera por responsabilidad medioambiental.
+La Administración de la Comunidad Autónoma de Extremadura y los organismos autónomos, entes y entidades de derecho público dependiente de ella, no estarán obligados a la constitución de la garantía financiera exigida a los operadores de las actividades incluidas en el anexo III de la Ley 26/2007, de 23 de octubre, de Responsabilidad Medioambiental.
