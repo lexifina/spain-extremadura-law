@@ -1,0 +1,2 @@
+Esta norma pasa a denominarse "Ley 4/2010, de 28 de abril, de Consejos Reguladores de Denominaciones de Origen e Indicaciones Geográficas de Calidad Agroalimentaria de Extremadura", según establece el art. 1.1 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+Téngase en cuenta que las referencias hechas en el articulado a la expresión de órganos de gestión deben entenderse referidas a las entidades de gestion, según establece el art. 1.6 de la citada ley.
