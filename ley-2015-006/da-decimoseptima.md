@@ -1,2 +1,3 @@
 Disposición adicional decimoséptima.
-La primera consulta para la determinación de la representatividad de las Organizaciones Profesionales Agrarias en la Comunidad Autónoma de Extremadura se convocará en el plazo de 12 meses desde la entrada en vigor de la presente Ley.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 6/2016, de 24 de junio. Ref. BOE-A-2016-6650.
