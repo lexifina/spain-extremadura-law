@@ -1,0 +1,2 @@
+Disposición transitoria única. Régimen transitorio Renta Básica Extremeña de Inserción.
+A los procedimientos en materia de Renta Básica Extremeña de Inserción iniciados con anterioridad a la entrada en vigor de esta ley, les será de aplicación lo dispuesto en su artículo 11, a excepción de la modificación operada en el artículo 21.2 de la Ley 9/2014, de 1 de octubre, por la que se regula la Renta Básica Extremeña de Inserción, que solo será de aplicación a los procedimientos que se inicien a partir de la entrada en vigor de la presente norma.
