@@ -6,8 +6,9 @@ En estos casos, el promotor del proyecto, actuación o actividad, a través del 
 a) Si entendiera que la acción pretendida no es susceptible de afectar de forma apreciable al lugar, o estimara que las repercusiones no serán apreciables mediante la adopción de un condicionado especial, informará al órgano sustantivo para su consideración e inclusión de dicho condicionado en la resolución.
 b) Si considerara que la realización de la acción puede tener efectos negativos importantes y significativos, dispondrá su evaluación de impacto ambiental, salvo que, de acuerdo con lo regulado por la legislación sectorial existente en la materia, la actuación ya estuviera sometida a la misma.
 En aquellos casos en los que el proyecto o actividad esté sujeta a evaluación de impacto ambiental, ya sea por la legislación estatal o autonómica específica en esta materia, o bien por así disponerlo el informe de afección, éste último formará parte del procedimiento de evaluación de impacto ambiental.
-4. El plazo para emitir el informe de afección a que se refiere este artículo será de 40 días naturales. De no emitirse el informe en el plazo establecido se entenderá que es positivo.
+4. El plazo para emitir el informe de afección a que se refiere este artículo será de 40 días naturales. De no emitirse el informe de afección en plazo deberá realizarse la evaluación de impacto ambiental del correspondiente plan, programa o proyecto.
 5. Desde el momento en que la Comisión apruebe la lista de lugares seleccionados como de Importancia Comunitaria a todos los lugares incluidos en la misma les será de aplicación el régimen de evaluación de actividades.
+Se modifica el apartado 4 por el art. 20 de la Ley 8/2016, de 12 de diciembre. Ref. BOE-A-2017-226.
 Se modifica el apartado 4 por la disposición final 1 de la Ley 6/2013, de 13 de diciembre. Ref. BOE-A-2014-374.
 Se modifica el apartado 4 por la disposición final 3 de la Ley 5/2010, de 23 de junio. Ref. BOE-A-2010-11187.
 Se añade por el art. único.27 de la Ley 9/2006, de 23 de diciembre. Ref. BOE-A-2007-1725.
