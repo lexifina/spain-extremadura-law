@@ -1,0 +1,3 @@
+Disposición derogatoria única. Derogación normativa.
+1. Quedan derogadas todas las disposiciones de igual e inferior rango que se opongan a lo establecido en la presente ley y, en particular, la Ley 17/2001, de 14 de diciembre, de Cámaras Oficiales de Comercio e Industria de Extremadura.
+2. El Decreto 23/2002, de 11 de marzo, por el que se regula el régimen electoral para la renovación del Pleno de las Cámaras Oficiales de Comercio e Industria de la Comunidad Autónoma de Extremadura, se mantendrá en vigor, en cuanto no se oponga a esta ley y hasta tanto se dicten las normas reglamentarias sustitutorias.
