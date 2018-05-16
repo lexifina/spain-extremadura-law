@@ -1,0 +1,2 @@
+Disposición adicional única. Gestión telemática en la coordinación interadministrativa.
+A los efectos de posibilitar la interoperabilidad de las administraciones públicas afectadas, así como la comunicación entre la secretaría y el resto de componentes de la Comisión de Coordinación Intersectorial, se establecerá la necesaria herramienta informática de gestión telemática y colaborativa, en los términos de la legislación en materia de procedimiento administrativo común.
