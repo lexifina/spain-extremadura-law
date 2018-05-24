@@ -1,0 +1,2 @@
+Disposición adicional única. Deducción autonómica en IRPF por acogimiento de menores.
+En los supuestos de acogimiento simple, permanente y preadoptivo, a que aludía el artículo 6 del Texto Refundido de las disposiciones legales de la Comunidad Autónoma de Extremadura en materia de tributos cedidos por el Estado, aprobado por Decreto Legislativo 1/2013, de 21 de mayo, que subsistan a la entrada en vigor de esta Ley, se tendrá derecho a la reducción correspondiente, en los términos que establecía el citado artículo.
