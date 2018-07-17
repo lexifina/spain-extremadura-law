@@ -1,0 +1,4 @@
+Artículo 52 ter. Relaciones interadministrativas.
+Las distintas administraciones de la comunidad autónoma de Extremadura con competencias en materia de turismo, dentro del ámbito de su autonomía, se ajustarán en sus relaciones recíprocas a los principios de información mutua, coordinación, colaboración, cooperación, con respecto a los ámbitos competenciales respectivos y ponderación de los intereses públicos implicados, primando la eficacia y la eficiencia administrativas.
+A tales efectos, el órgano que gestione el Registro General de Empresas y Actividades Turísticas de Extremadura debe comunicar las inscripciones de los prestadores de servicios y actividades turísticas a las administraciones tributarias, a los ayuntamientos y al Registro de la Propiedad, para poder llevar un correcto control desde los puntos de vista urbanístico, territorial, medioambiental y tributario.
+Se añade por el art. único.11 de la Ley 6/2018, de 12 de julio. Ref. BOE-A-2018-10762
