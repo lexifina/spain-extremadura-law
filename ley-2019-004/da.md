@@ -1,0 +1,2 @@
+Disposición adicional. Habilitación a la Junta de Extremadura para el desarrollo reglamentario.
+Se habilita a la Junta de Extremadura para que, en el ámbito de sus competencias, dicte las disposiciones reglamentarias necesarias para el desarrollo y la aplicación de lo establecido en esta ley.
