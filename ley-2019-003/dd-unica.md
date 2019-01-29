@@ -1,0 +1,4 @@
+Disposición derogatoria única.
+1. Quedan derogadas las disposiciones de la Ley 5/1990, de 30 de noviembre, de relaciones interadministrativas entre las Diputaciones Provinciales de Badajoz y Cáceres y la Comunidad Autónoma de Extremadura que se opongan a la presente ley.
+2. Asimismo, quedan derogadas cuantas leyes y disposiciones normativas de carácter reglamentario se opongan a lo establecido en la presente ley.
+3. Mientras el Gobierno de Extremadura no desarrolle reglamentariamente la regulación establecida en el artículo 14.8 de la presente ley, el Decreto 265/2014, de 9 de diciembre, por el que se regula el procedimiento de emisión de informes de inexistencia de duplicidades para el ejercicio de competencias distintas de las propias y de las delegadas por las entidades locales de Extremadura, continuará en vigor en todo lo que no se oponga a lo establecido en esta ley.
