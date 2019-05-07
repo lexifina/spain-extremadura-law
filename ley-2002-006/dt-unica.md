@@ -1,2 +1,0 @@
-Disposición transitoria única.
-Lo dispuesto en esta Ley sobre el régimen de limitaciones y responsabilidades, así como sobre la exención del seguro decenal, será de aplicación a las viviendas acogidas a la figura de autopromoción regulada en el Título II de la Ley 3/1995, de Fomento de la Vivienda y normas que la desarrollan, cuya declaración de obra nueva, a la entrada en vigor del presente texto legal, no haya aún accedido al Registro de la Propiedad.

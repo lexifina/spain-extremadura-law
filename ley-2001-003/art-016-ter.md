@@ -1,5 +1,0 @@
-Artículo 16 ter. Medidas de intermediación.
-1. La Junta de Extremadura deberá establecer medidas y procedimientos de obligado cumplimiento de intermediación entre los antiguos propietarios de vivienda habitual y las entidades financieras, sus filiales inmobiliarias o entidades de gestión de activos que, con motivo de una ejecución hipotecaria, se hiciesen con la propiedad del inmueble subastado, con el objeto de impulsar y facilitar la concertación de arrendamientos, sin que ello implique la obligación de mantenerse en la mediación o de concluir un acuerdo.
-2. La Junta de Extremadura podrá establecer sistemas de promoción y estímulo a los propietarios e inversores para poner en el mercado de alquiler viviendas para personas y unidades de convivencia con dificultades para acceder a este, incluidas labores de intermediación en dicho mercado.
-Reglamentariamente se establecerán los estímulos, garantías, avales públicos y, en su caso, las funciones de intermediación para la puesta a disposición de las viviendas en las adecuadas condiciones de habitabilidad.
-Se añade por el art. 1.5 de la Ley 2/2017, de 17 de febrero. Ref. BOE-A-2017-3067#a1
