@@ -1,0 +1,5 @@
+Artículo 151 ter. Documentación y plazo.
+1. Una vez que hayan sido emitidos los informes, y estando, por tanto, en disposición de que se dicte acuerdo por quien corresponda, la Intervención ejercerá la función interventora a la vista del expediente con la documentación que sea necesaria para su fiscalización.
+2. El expediente será fiscalizado en el plazo de diez días contados a partir del siguiente a la fecha de recepción, que se reducirá a cinco días computados de igual forma cuando se declarase urgente la tramitación del expediente.
+3. Cuando la Intervención haga uso de la facultad de solicitar de los órganos competentes el asesoramiento jurídico o los informes técnicos que se precisen en función de la naturaleza del acto, documento o expediente intervenido, así como los antecedentes y documentos necesarios para el ejercicio de dicha función, se suspenderá el plazo mencionado en el número 2 anterior, debiendo dar cuenta de dicha circunstancia al órgano gestor proponente del gasto.
+Se añade por el art. 9.12 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
