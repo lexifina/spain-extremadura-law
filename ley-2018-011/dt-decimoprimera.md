@@ -1,0 +1,7 @@
+Disposición transitoria decimoprimera. Aplicación de los reglamentos urbanísticos.
+1. Mientras no se produzca su desplazamiento por el desarrollo reglamentario a que se refiere la disposición final primera, seguirán aplicándose en el territorio de Extremadura, supletoriamente y en lo que sea compatible con la presente Ley, las siguientes disposiciones:
+a) El Real Decreto 3288/1978, de 25 de agosto, por el que se aprueba el Reglamento de Gestión Urbanística.
+b) El Real Decreto 2187/1978, de 23 de junio, por el que se aprueba el Reglamento de Disciplina Urbanística.
+c) El Real Decreto 1006/1966, de 7 de abril, por el que se aprueba el Reglamento de Reparcelaciones de suelo afectado por Planes de Ordenación Urbana.
+d) El Real Decreto 1169/1978, de 2 de mayo, sobre creación de Sociedades Urbanísticas por el Estado, los organismos autónomos y las Corporaciones Locales de acuerdo con el artículo 115 de la Ley del Suelo, que resultará igualmente aplicable a la Administración de la comunidad autónoma de Extremadura y los entes públicos a ella pertenecientes.
+2. Mientras no se produzca su derogación por el desarrollo reglamentario a que se refiere la disposición final primera, seguirán aplicándose en el territorio de Extremadura, supletoriamente y en lo que sea compatible con la presente Ley, el Decreto 7/2007, de 23 de enero, por el que se aprueba el Reglamento de Planeamiento de Extremadura.

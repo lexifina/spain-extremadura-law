@@ -1,0 +1,2 @@
+Disposición transitoria decimosegunda. Aplicación complementaria de la Ley 2/2018, de 14 de febrero, de coordinación intersectorial y de simplificación de los procedimientos urbanísticos y de ordenación del territorio de Extremadura.
+En relación con los procedimientos para la aprobación de los Planes Territoriales y de los Planes Generales o sus modificaciones, será de aplicación complementaria la Ley 2/2018, de 14 de febrero, de coordinación intersectorial y de simplificación de los procedimientos urbanísticos y de ordenación del territorio de Extremadura.
