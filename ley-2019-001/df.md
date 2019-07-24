@@ -1,0 +1,2 @@
+Disposición final. Entrada en vigor.
+Esta ley entrará en vigor a los seis meses de su publicación en el «Diario Oficial de Extremadura».
