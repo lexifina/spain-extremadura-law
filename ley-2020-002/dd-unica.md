@@ -1,0 +1,2 @@
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en la presente Ley y en particular todo el contenido de la Ley 6/2005, de 27 de diciembre, de medidas para la asistencia y atención a las víctimas de terrorismo y de creación del Centro Extremeño de Estudios para la Paz, a excepción de su Título III, relativo al Centro Extremeño de Estudios para la Paz.
