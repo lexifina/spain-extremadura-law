@@ -1,0 +1,2 @@
+Disposición adicional única. Adaptación presupuestaria y contable de los conciertos educativos.
+Con la finalidad de optimizar la gestión presupuestaria y contable del régimen de conciertos educativos, las fases de compromiso de gasto y reconocimiento de la obligación podrán acumularse al momento en que proceda realizar los respectivos abonos, sin perjuicio de la fiscalización previa de la aprobación de los gastos de la convocatoria y de las modificaciones de los gastos aprobados de la misma que procedan y surjan con posterioridad conforme a la normativa correspondiente.
