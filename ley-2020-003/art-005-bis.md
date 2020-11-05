@@ -1,0 +1,4 @@
+Artículo 5 Bis. Bono-Libro/Cheque-Libro.
+1. Se define el bono-libro/cheque-libro como el documento, en modelo normalizado, que permite a las usuarias y a los usuarios canjear libros o material escolar en el establecimiento comercial autorizado adscrito al sistema de préstamo y constituye título valido para que el operador económico emita la correspondiente factura. El bono-libro/cheque libro deberá acompañar a la factura que se remita por el operador económico al centro educativo.
+2. La Administración educativa podría valerse del bono-libro/cheque libro como herramienta para llevar a término los postulados establecidos en la presente Ley.
+3. El modelo normalizado, el procedimiento de transacción que valida el bono-libro/cheque-libro, así como, el plazo y la forma de justificación del operador económico ante el centro educativo, serán objeto de desarrollo reglamentario.
