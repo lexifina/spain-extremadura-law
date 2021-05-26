@@ -1,0 +1,4 @@
+Disposición derogatoria única. Derogación normativa.
+1. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente ley.
+2. En especial, queda derogada la Ley 8/1985, de 26 de noviembre, de Comparecencia en Juicio. De la misma forma se deroga la disposición adicional primera de la Ley 19/2015, de 23 de diciembre, por la que se deroga la Ley 16/2001, de 14 de diciembre, reguladora del Consejo Consultivo de Extremadura por la que se crea la Comisión Jurídica de Extremadura.
+3. El Decreto 99/2009, de 8 de mayo, por el que se aprueba el Reglamento de Organización y Funcionamiento de la Abogacía General de la Junta de Extremadura, permanecerá en vigor en lo que no contradiga a la presente ley y hasta que se produzca el desarrollo reglamentario de la misma.
