@@ -1,0 +1,2 @@
+Disposición transitoria única. Régimen transitorio respecto a las ordenanzas municipales reguladoras del comercio ambulante.
+No serán objeto de emisión los informes solicitados al Consejo de Comercio Extremeño en el procedimiento de tramitación de las ordenanzas municipales reguladoras del comercio ambulante que no hubiesen sido emitidos con anterioridad a la fecha de entrada en vigor del presente decreto-ley.
