@@ -1,0 +1,4 @@
+Artículo 12 bis. Límites en la base imponible para la aplicación de determinadas deducciones autonómicas para los contribuyentes con residencia habitual en municipios y entidades locales menores de Extremadura con población inferior a 3.000 habitantes.
+En los supuestos contemplados en los artículos 3, 5, 6, 7, 8, 9 y 10 de esta ley, las bases imponibles general y del ahorro para los contribuyentes con residencia habitual en municipios y entidades locales menores con una población inferior a 3.000 habitantes, no podrán superar los 28.000 euros en tributación individual y 45.000 euros en tributación conjunta. En el supuesto de familias numerosas, no existirá ningún límite.
+Se añade por la disposición final 2.3 de la Ley 3/2022, de 17 de marzo. Ref. BOE-A-2022-5853#df-2
+Este artículo será de aplicación a los hechos imponibles que se devengen a partir del 1 de enero de 2022, según establece la disposición final 5 de la citada Ley.
