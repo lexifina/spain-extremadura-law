@@ -1,0 +1,2 @@
+Disposición adicional decimocuarta. Cambio de denominación del Portal de Transparencia y Participación Ciudadana.
+Todas las referencias que se contemplen en cualquier disposición general de carácter autonómico o instrucciones, protocolos, circulares o actos al Portal de la Transparencia y la Participación Ciudadana de la Junta de Extremadura se entenderán realizadas desde la fecha de aprobación de esta ley al Portal de Transparencia de la Junta de Extremadura.
