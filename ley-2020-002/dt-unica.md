@@ -1,3 +1,3 @@
 Disposición transitoria única. Actos acaecidos con anterioridad a su entrada en vigor.
-La presente ley será de aplicación a quienes, con anterioridad a su entrada en vigor, tengan la condición de víctimas del terrorismo conforme a lo previsto en los artículos 3 y 4 de la presente ley.
-Las víctimas por actos terroristas acaecidos con anterioridad a la entrada en vigor de la ley, podrán solicitar las acciones asistenciales y ayudas previstas en el título III y IV de la misma, siempre que los actos hayan acaecido desde el 27 de junio de 1960. En este caso, el plazo de presentación de la solicitud será de un año, a contar desde la fecha de entrada en vigor de la presente ley. Para aquellas personas que no tuvieran el reconocimiento de víctima del terrorismo, el plazo de un año empezará a contar desde el momento de dicho reconocimiento.
+(Suprimida).
+Se suprime por el art. 42.7 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a4-4

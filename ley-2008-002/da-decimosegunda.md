@@ -1,0 +1,3 @@
+Disposición adicional decimosegunda. Afectación a servicios educativos.
+Sin perjuicio de la afectación establecida en el Inventario del Patrimonio de la Comunidad Autónoma de Extremadura, todas las dependencias, instalaciones y edificios afectos al Servicio Extremeño de Salud, organismos autónomos y consejerías de la Junta de Extremadura, en las que se impartan enseñanzas regladas, no regladas, de grado o postgrado, tendrán por ministerio de esta Ley la afectación simultánea a efectos educativos. La consideración de centros educativos que les otorga esta disposición perdurará hasta tanto se produzca su desafectación de forma expresa por el órgano competente.
+Se añade por el art. 29.9 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a2-11

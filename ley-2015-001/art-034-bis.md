@@ -1,0 +1,8 @@
+Artículo 34 bis. Composición de la Junta Económico-Administrativa.
+1. La Junta Económico-Administrativa de Extremadura estará compuesta por un Presidente, cinco Vocales y un Secretario, todos ellos con voz y voto.
+2. Se designará Presidente a la persona que ostente la Dirección General competente en materia de aplicación de los tributos. En los casos de vacante, ausencia o enfermedad u otra causa legal, el presidente será sustituido por la persona que ostente la Secretaría General de la Consejería competente en materia de hacienda o, en su defecto, por el vocal más antiguo.
+3. El nombramiento de los miembros de la Junta Económico-Administrativa se realizará mediante Orden del titular de la Consejería competente en materia de hacienda y, salvo en el caso del Presidente, los nombramientos deberán recaer en funcionarios de los Grupos A1 y A2 que cuenten con especial capacidad técnica y experiencia en gestión, recaudación e inspección tributaria. Existirán tantos vocales suplentes como titulares, que actuarán en caso de ausencia, vacante o enfermedad de alguno de éstos últimos.
+4. Como secretario actuará un funcionario en activo de la Consejería competente en materia de hacienda.
+5. El Presidente podrá convocar, a la sesión de la Junta Económico-Administrativa, a funcionarios que no sean Vocales, a fin de que informen sobre los extremos que se estimen convenientes, sin que puedan participar en las deliberaciones.
+6. Los miembros de la Junta Económico-Administrativa tendrán derecho a indemnizaciones por asistencia, salvo aquellos en los que concurra prohibición o limitación legal para su percepción.
+Se añade por el art. 19 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-11

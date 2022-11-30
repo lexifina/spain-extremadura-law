@@ -22,10 +22,10 @@ Régimen de intervención que se implantará: declaración responsable.
 Consejería: Vicepresidencia Primera y Consejería de Hacienda y Administración Pública.
 Normativa: Decreto 117/2009, de 29 de mayo, por el que se aprueba el Reglamento de Máquinas Recreativas y de Azar y de Salones Recreativos y de Juego de la Comunidad Autónoma de Extremadura.
 Régimen de intervención que se implantará: declaración responsable.
-6. Autorización de depósito de medicamentos.
+6. Autorización de depósitos de medicamentos de uso humano de centros y complejos hospitalarios, de instituciones asistenciales especializadas en tratamientos específicos sin internamiento y de los destinados al uso y tenencia de toxina botulínica tipo A con indicación estética para cambios en organigrama de puestos clave, cambio de titularidad del centro sanitario o cese de actividad.
 Consejería: Vicepresidencia Segunda y Consejería de Sanidad y Servicios Sociales.
 Normativa: Ley 6/2006, de 9 de noviembre, de Farmacia de Extremadura.
-Régimen de intervención que se implantará: declaración responsable.
+Régimen de intervención que se implantará: comunicación.
 7. Autorización de entidades proveedoras de actividades formativas en el uso de desfibriladores externos automatizados (DEA).
 Consejería: Vicepresidencia Segunda y Consejería de Sanidad y Servicios Sociales.
 Normativa: Decreto 16/2019, de 12 de marzo, por el que se regula la instalación de desfibriladores externos automatizados (DEA) en el ámbito no sanitario, la autorización para su uso y la formación asociada al mismo.
@@ -180,6 +180,7 @@ Régimen de intervención que se implantará: comunicación.
 Consejería: Consejería para la Transición Ecológica y Sostenibilidad.
 Normativa: Ley 16/2015, de 23 de abril, de Protección Ambiental.
 Régimen de intervención que se implantará: comunicación.
+Se modifica el procedimiento 6 por la disposición final 1 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#df
 ANEXO II
 Procedimientos de la Administración de la Comunidad Autónoma de Extremadura en los que se aplica la técnica de calificaciones integrales
 1. Proyecto de Interés Prioritario para Extremadura.
