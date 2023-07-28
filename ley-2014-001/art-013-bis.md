@@ -1,6 +1,6 @@
 Artículo 13 bis. Información previa a la Asamblea.
-1. Con carácter previo al nombramiento de los altos cargos definidos en esta ley, la Junta de Extremadura pondrá en conocimiento de la Asamblea de Extremadura el nombre de la persona propuesta para el cargo por el consejero competente por razón de la materia, a fin de que disponga su comparecencia ante la comisión correspondiente de la Cámara en el plazo de diez días desde la recepción de la referida comunicación.
-La comisión parlamentaria examinará las candidaturas propuestas. Sus miembros formularán las preguntas o solicitarán las aclaraciones que crean convenientes. A tal efecto, la Junta de Extremadura deberá remitir, con carácter previo a la comparecencia del candidato propuesto, la información relativa a su formación y experiencia profesional, actividades, bienes, derechos, intereses y rentas.
+(Derogado)
 Téngase en cuenta que este artículo añadido por la disposición final 4 de la el art. 13 bis, por Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221, entra en vigor el 9 de mayo de 2019, según establece su disposición final 12.
+Se deroga por el art. único de la Ley 5/2023, de 27 de julio. Ref. BOE-A-2023-19358
 Se añade por la disposición final 4 de la el art. 13 bis, por Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221.
 Este artículo entra en vigor el 9 de mayo de 2019, según establece la disposición final 12 de la citada ley.
