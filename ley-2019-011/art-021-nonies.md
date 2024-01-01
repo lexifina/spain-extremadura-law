@@ -1,0 +1,6 @@
+Artículo 21 nonies. Obligación de comunicación de vivienda vacía.
+Las personas jurídicas definidas en el apartado 18 del artículo 4 de esta Ley como grandes tenedores de viviendas vacías deberán comunicar, anualmente, a la consejería competente en materia de vivienda el número y la relación de las viviendas vacías ubicadas en la Comunidad Autónoma de Extremadura sobre las que ostenten alguno de los títulos establecidos en dicho artículo, con indicación de las causas justificadas de desocupación, si concurrieren.
+Dicha comunicación comprenderá los datos relativos al título o derecho que ostentan, ubicación, superficie, existencia de cédula de habitabilidad o documento equivalente y las condiciones de conservación y mantenimiento del inmueble.
+La consejería competente en materia de vivienda podrá, en cualquier momento, requerir a los obligados a la comunicación, la acreditación de la información que considere oportuna.
+Téngase en cuenta que este artículo añadido por el art. único.15 de la Ley 4/2023, de 29 de marzo. Ref. BOE-A-2023-9098, entra en vigor el 1 de enero de 2024, según determina su disposición final 8.
+Se añade, con efectos de 1 de enero de 2024, por el art. único.15 de la Ley 4/2023, de 29 de marzo. Ref. BOE-A-2023-9098

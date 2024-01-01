@@ -1,0 +1,6 @@
+Artículo 21 septies. Cómputo del período de desocupación.
+1. El cómputo del período de un año al que se refiere el artículo 21 quinquies, se iniciará a partir de la fecha en que la vivienda esté a disposición del gran tenedor para ser ocupada o para ceder su uso a una tercera persona o, en su caso, desde el último día de la efectiva ocupación y no exista causa alguna que justifique su desocupación. Será necesario que, durante el plazo del año, el sujeto pasivo haya sido titular de la vivienda de forma continuada.
+2. En el caso de viviendas de nueva construcción, se entiende que existe disponibilidad para que la vivienda sea ocupada a partir del plazo de tres meses, contados desde la fecha de expedición de la licencia de primera ocupación. En estos casos, el plazo de un año indicado anteriormente se computará a partir de esa fecha.
+3. Será causa de interrupción del cómputo del plazo del año la ocupación de la vivienda durante un período de, como mínimo, tres meses continuados.
+Téngase en cuenta que este artículo añadido por el art. único.15 de la Ley 4/2023, de 29 de marzo. Ref. BOE-A-2023-9098, entra en vigor el 1 de enero de 2024, según determina su disposición final 8.
+Se añade, con efectos de 1 de enero de 2024, por el art. único.15 de la Ley 4/2023, de 29 de marzo. Ref. BOE-A-2023-9098
