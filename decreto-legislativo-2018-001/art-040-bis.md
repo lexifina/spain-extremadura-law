@@ -1,0 +1,3 @@
+Artículo 40 bis. Tipo de gravamen reducido en las adquisiciones de viviendas habituales que no tengan la consideración de viviendas de protección oficial de precio máximo legal por contribuyentes que tengan menos de treinta y seis años.
+Se aplicará un tipo reducido del 6 % a las transmisiones de inmuebles que vayan a constituir la vivienda habitual del sujeto pasivo siempre que este tenga menos de treinta y seis años en la fecha de devengo y se cumplan los mismos requisitos establecidos en el artículo anterior.
+Se añade por el art. 1.2 del Decreto-ley 2/2024, de 22 de octubre. Ref. BOE-A-2024-25456
