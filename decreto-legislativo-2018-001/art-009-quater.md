@@ -1,0 +1,7 @@
+Artículo 9 quater. Censo de núcleos de población diferenciados.
+1. A efectos del reconocimiento del beneficio fiscal establecido en el artículo 9 ter, se crea el Censo de núcleos de población que no son municipios ni entidades locales menores y que pertenecen a un municipio de más de 3.000 habitantes y sus diseminados, que se incluye como anexo de la norma.
+2. El Censo podrá ser objeto de modificación y actualización por resolución de la Consejería competente en materia de reto demográfico teniendo en cuenta los criterios indicados en el siguiente apartado.
+3. A los efectos de este Censo, se considera núcleo de población a un conjunto de, al menos, diez edificaciones que están formando calles, plazas y otras vías urbanas. Por excepción, el número de edificaciones puede ser inferior a 10, siempre que la población que habite las mismas supere los 50 habitantes. Para la formación del Censo no se tienen en cuenta los núcleos identificados con categorías de suelos y tipologías netamente urbanísticas, como parcelaciones y segundas residencias. También se descarta el poblamiento diseminado.
+4. La equiparación a estos efectos entre municipios, entidades locales menores y núcleos de población diferenciados incluidos en el Censo implica que para la aplicación de este incentivo sean exigidas las mismas condiciones legalmente previstas.
+Se añade por el art. único.1 del Decreto-ley 1/2025, de 23 de enero. Ref. BOE-A-2025-5113
+Esta modificación surte efectos desde el 1 de enero de 2025, según establece la disposición final 2 del citado Decreto-ley.
