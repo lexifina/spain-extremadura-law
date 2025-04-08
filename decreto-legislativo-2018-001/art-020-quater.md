@@ -1,4 +1,6 @@
 Artículo 20 quater. Beneficios fiscales en las adquisiciones por causa de muerte para los causahabientes incluidos en el Registro Autonómico de Personas con Especial Vinculación.
 1. Se extienden los beneficios fiscales que se encuentren vigentes en la normativa autonómica para los grupos I y II de parentesco, a los que se refiere el artículo 20.2.a) de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones, incluidas las cantidades percibidas por las beneficiarias de seguros sobre la vida, a los causahabientes con especial vinculación.
 2. El disfrute de estos beneficios fiscales requiere que los obligados tributarios figuren inscritos en el Registro Autonómico al que se refiere el artículo anterior. No obstante, desde la entrada en vigor de este precepto, surtirán efecto las solicitudes de inscripción en el Registro Autonómico de personas con Especial vinculación sin perjuicio de la posterior comprobación administrativa. Se habilita a la Consejería competente en materia de hacienda para que apruebe, por resolución, el modelo de solicitud referido anteriormente.
+Se añade por el art. único.2 de la Ley 1/2025, de 3 de abril. Ref. BOE-A-2025-7444
+Téngase en cuenta que este artículo ya fue añadido por el Decreto-ley 1/2025, de 23 de enero.
 Se añade por el art. único.2 del Decreto-ley 1/2025, de 23 de enero. Ref. BOE-A-2025-5113
