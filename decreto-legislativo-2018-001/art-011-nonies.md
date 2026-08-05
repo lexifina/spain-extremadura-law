@@ -1,0 +1,16 @@
+Artículo 11 nonies. Deducción en la cuota íntegra autonómica por gastos veterinarios.
+1. Los contribuyentes podrán aplicar una deducción del 30 % de las cantidades satisfechas en el período impositivo en concepto de gastos por servicios veterinarios derivados de la tenencia de animales de compañía o de perros de asistencia.
+El importe máximo de la deducción será de 100 euros por declaración, incrementándose hasta un máximo de 200 euros cuando los gastos estén vinculados a la tenencia de perros de asistencia.
+2. A los efectos de este artículo, se entenderá por:
+a) Animales de compañía, los definidos en el párrafo a) del artículo 3 de la Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales o norma que la sustituya.
+b) Perros de asistencia, los definidos en el párrafo cc) del artículo 3 de la Ley 7/2023, de 28 de marzo, y en su normativa reglamentaria de desarrollo.
+Asimismo, se entenderán comprendidos en esta definición los perros de aviso que, cumpliendo los requisitos establecidos en la normativa estatal que regule la actividad y bienestar de los perros de asistencia, se destinen a la protección y acompañamiento de las personas víctimas de violencia de género, siempre que tengan dicha consideración conforme a lo previsto en la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral con la Violencia de Género, o en las normas que las sustituyan.
+c) Gastos por servicios veterinarios: los correspondientes a consultas veterinarias, vacunaciones, desparasitaciones, pruebas diagnósticas, intervenciones quirúrgicas, tratamientos farmacológicos, hospitalización, servicios de urgencias, atención especializada, así como cualquier otro servicio profesional prestado por personal veterinario legalmente habilitado.
+Quedan excluidos los gastos de carácter meramente estético, recreativo o accesorio que no respondan a una necesidad sanitaria del animal.
+3. Serán requisitos para la aplicación de la deducción:
+– Que en el caso de animales de compañía se ostente la titularidad en los términos establecidos en el apartado dd) del artículo 3 de la Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales o norma que la sustituya.
+– Que en el caso de perros de asistencia el contribuyente forme parte de la unidad de vinculación, o sea el representante legal de la persona usuaria cuando aquella carezca de capacidad de obrar, en los términos establecidos en el Real Decreto 409/2025, de 27 de mayo, por el que se regula la actividad y bienestar de los perros de asistencia o norma que la sustituya.
+– Que, en todo caso, la suma de la base imponible general y del ahorro del contribuyente no sea superior a 30.000 euros en tributación individual o 55.000 euros en caso de tributación conjunta.
+4. La base de esta deducción estará constituida por los importes efectivamente abonados por el contribuyente, siempre que se encuentren debidamente justificados mediante la correspondiente factura expedida a su favor por un profesional o centro veterinario legalmente autorizado.
+Se añade por la disposición final 2.14 de la Ley 2/2026, de 3 de agosto. Ref. BOE-A-2026-17839
+Téngase en cuenta que esta adición tiene efectos desde el 1 de enero de 2026, según establece la disposición final 7 de la citada Ley.
