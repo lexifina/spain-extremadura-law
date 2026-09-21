@@ -1,2 +1,4 @@
 Disposición transitoria. Procedimientos iniciados a la entrada en vigor de esta ley.
 Los procedimientos iniciados y no concluidos con anterioridad a la entrada en vigor de esta ley decaerán, a excepción de los procesos de exhumación, que continuarán rigiéndose por la normativa anterior.
+Téngase en cuenta que se suspende la vigencia y aplicación del esta disposición desde el 16 de julio de 2026 para las partes en el proceso y desde el 21 de septiembre de 2026 para los terceros, por providencia del TC de 8 de septiembre de 2026 que admite a trámite el recurso de inconstitucionalidad nº 5463-2026. Ref. BOE-A-2026-19521
+Se suspende la vigencia y aplicación de esta disposición desde el 16 de julio de 2026 para las partes en el proceso y desde el 21 de septiembre de 2026 para los terceros, por providencia del TC de 8 de septiembre de 2026 que admite a trámite el recurso de inconstitucionalidad nº 5463-2026. Ref. BOE-A-2026-19521

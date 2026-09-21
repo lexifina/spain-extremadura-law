@@ -1,1 +1,2 @@
+Téngase en cuenta que se suspende la derogación esta norma desde el 16 de julio de 2026 para las partes en el proceso y desde el 21 de septiembre de 2026 para los terceros, por providencia del TC de 8 de septiembre de 2026 que admite a trámite el recurso de inconstitucionalidad nº 5463-2026, en relación con la disposición derogatoria de la Ley 4/2025, de 15 de octubre. Ref. BOE-A-2026-19521
 Norma derogada, con efectos de 18 de octubre de 2025, por la disposición derogatoria.1 de la Ley 4/2025, de 15 de octubre. Ref. BOE-A-2025-21454#dd
