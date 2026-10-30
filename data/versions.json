@@ -4850,6 +4850,72 @@
      "sha256": "0b59ba3a593afc754d97f2dd96c7481c70d046cbcdc839a8401260192631a662"
     }
    ]
+  },
+  {
+   "slug": "decreto-legislativo-2005-001",
+   "short": "Decreto Legislativo 1/2005, de 21 de junio",
+   "title": "Decreto Legislativo 1/2005, de 21 de junio, por el que se aprueba el Texto Articulado de las Bases establecidas por el artículo 5 de la Ley 10/2004, de 29 de diciembre, de Regulación y Bases de la Agencia Extremeña de la vivienda, el Urbanismo y el Territorio.",
+   "url": "https://www.boe.es/buscar/act.php?id=DOE-e-2005-90024",
+   "versions": [
+    {
+     "from": "2005-06-28",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOE-e-2005-90024",
+     "sha256": "119f6396e0472aa2bf47f846c04ad70e023f08ef5d6049bda508a8de6c9076db"
+    },
+    {
+     "from": "2008-05-27",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOE-e-2005-90024",
+     "sha256": "119f6396e0472aa2bf47f846c04ad70e023f08ef5d6049bda508a8de6c9076db"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-005",
+   "short": "Ley 5/2010, de 23 de junio",
+   "title": "Ley 5/2010, de 23 de junio, de prevención y calidad ambiental de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-11187",
+   "versions": [
+    {
+     "from": "2010-09-24",
+     "units": 191,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-11187",
+     "sha256": "9afc396cd7d8867e469140739a8264372e25ff2505faecc6e9a60cbcd7ae34f0"
+    },
+    {
+     "from": "2015-06-26",
+     "units": 192,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-11187",
+     "sha256": "9afc396cd7d8867e469140739a8264372e25ff2505faecc6e9a60cbcd7ae34f0"
+    },
+    {
+     "from": "2015-06-29",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-11187",
+     "sha256": "9afc396cd7d8867e469140739a8264372e25ff2505faecc6e9a60cbcd7ae34f0"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2014-004",
+   "short": "Decreto-ley 4/2014, de 26 de agosto",
+   "title": "Decreto-ley 4/2014, de 26 de agosto, por el que se regula la Renta Básica Extremeña de Inserción.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-9903",
+   "versions": [
+    {
+     "from": "2014-08-30",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-9903",
+     "sha256": "62a66a596d509cbfdcdc425df686fcf4403dec9cfbbfdecef7c8948e50c19e19"
+    },
+    {
+     "from": "2014-10-03",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-9903",
+     "sha256": "62a66a596d509cbfdcdc425df686fcf4403dec9cfbbfdecef7c8948e50c19e19"
+    }
+   ]
   }
  ]
 }
