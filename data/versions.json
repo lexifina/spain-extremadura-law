@@ -1,0 +1,4855 @@
+{
+ "country": "ES-EX",
+ "acts": [
+  {
+   "slug": "estatuto-de-autonomia",
+   "short": "Ley Orgánica 1/2011, de 28 de enero",
+   "title": "Ley Orgánica 1/2011, de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+   "versions": [
+    {
+     "from": "2011-01-29",
+     "units": 104,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-1638",
+     "sha256": "4a6eb5cdde3c4153fc5dea6114515a789051a1f5923564769c9d1f957bb68dfc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1985-004",
+   "short": "Ley 4/1985, de 3 de junio",
+   "title": "Ley 4/1985, de 3 de junio, del Escudo, Himno y día de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-18840",
+   "versions": [
+    {
+     "from": "1985-06-15",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-18840",
+     "sha256": "f427d9b65c428343aa51f5a3ad80b98842c95f4a6f68a41d017868c3e262c437"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1985-007",
+   "short": "Ley 7/1985, de 26 de noviembre",
+   "title": "Ley 7/1985, de 26 de noviembre, de Iniciativa Legislativa Popular de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-7305",
+   "versions": [
+    {
+     "from": "1985-12-23",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-7305",
+     "sha256": "91628f300fea74683161d60639f14bed6268c5800407ba3ac7acb8f51ecc3f55"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1986-001",
+   "short": "Ley 1/1986, de 2 de mayo",
+   "title": "Ley 1/1986, de 2 de mayo, sobre la Dehesa en Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-19748",
+   "versions": [
+    {
+     "from": "1986-06-04",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-19748",
+     "sha256": "8a9bc23c785d9dbf9ba9d772048002cb018dbee04857a7aa69ef2f97c5228af2"
+    },
+    {
+     "from": "2002-01-01",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-19748",
+     "sha256": "8a9bc23c785d9dbf9ba9d772048002cb018dbee04857a7aa69ef2f97c5228af2"
+    },
+    {
+     "from": "2015-06-26",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-19748",
+     "sha256": "8a9bc23c785d9dbf9ba9d772048002cb018dbee04857a7aa69ef2f97c5228af2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1987-002",
+   "short": "Ley 2/1987, de 16 de marzo",
+   "title": "Ley 2/1987, de 16 de marzo, de Elecciones a la Asamblea de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-8817",
+   "versions": [
+    {
+     "from": "1987-03-16",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-8817",
+     "sha256": "215da43e3828d5a4207875b01284a817dc9948716071935ace2bfdd97689ae52"
+    },
+    {
+     "from": "1991-03-26",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-8817",
+     "sha256": "215da43e3828d5a4207875b01284a817dc9948716071935ace2bfdd97689ae52"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1989-003",
+   "short": "Ley 3/1989, de 27 de diciembre",
+   "title": "Ley 3/1989, de 27 de diciembre, de Capitalidad de los Partidos Judiciales de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1990-6061",
+   "versions": [
+    {
+     "from": "1990-01-03",
+     "units": 4,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-6061",
+     "sha256": "aefa12b9f863e0a0faede3a8c4d5bd8868847a0c6ad41d220146b3f1422a6752"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1990-002",
+   "short": "Ley 2/1990, de 26 de abril",
+   "title": "Ley 2/1990, de 26 de abril, de Salud Escolar.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1990-28242",
+   "versions": [
+    {
+     "from": "1990-06-20",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-28242",
+     "sha256": "09db5f40a423c61357ca5cf293dbb12a80191966a49831fe2977e1a68af2c5b6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1991-001",
+   "short": "Ley 1/1991, de 7 de marzo",
+   "title": "Ley 1/1991, de 7 de marzo, reguladora de régimen jurídico de los baldíos de Alburquerque.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1991-20457",
+   "versions": [
+    {
+     "from": "1991-03-27",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-20457",
+     "sha256": "77f839e650d46c7ffb01c799ce045022108cbaaa3d694cfe9d8dbcea41378507"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1991-003",
+   "short": "Ley 3/1991, de 25 de abril",
+   "title": "Ley 3/1991, de 25 de abril, de creación del Consejo Económico y Social de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1991-20458",
+   "versions": [
+    {
+     "from": "1991-05-10",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-20458",
+     "sha256": "94709da025d8ee9854223b86c4d67b6ec741302d77016ef7cafb1a13bf0a85ed"
+    },
+    {
+     "from": "1996-11-30",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-20458",
+     "sha256": "94709da025d8ee9854223b86c4d67b6ec741302d77016ef7cafb1a13bf0a85ed"
+    },
+    {
+     "from": "1998-07-30",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-20458",
+     "sha256": "94709da025d8ee9854223b86c4d67b6ec741302d77016ef7cafb1a13bf0a85ed"
+    },
+    {
+     "from": "2018-02-24",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-20458",
+     "sha256": "94709da025d8ee9854223b86c4d67b6ec741302d77016ef7cafb1a13bf0a85ed"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-20458",
+     "sha256": "94709da025d8ee9854223b86c4d67b6ec741302d77016ef7cafb1a13bf0a85ed"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1994-002",
+   "short": "Ley 2/1994, de 28 de abril",
+   "title": "Ley 2/1994, de 28 de abril, de asistencia social geriátrica.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-13809",
+   "versions": [
+    {
+     "from": "1994-05-20",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1994-13809",
+     "sha256": "eb349873f1f4b0b90e3572a0d1cf6d2215542fc96bbf9a8e38e9e3e780944ab9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1994-003",
+   "short": "Ley 3/1994, de 26 de mayo",
+   "title": "Ley 3/1994, de 26 de mayo, de Artesanía de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-16921",
+   "versions": [
+    {
+     "from": "1994-07-04",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1994-16921",
+     "sha256": "8e8051687634d4e9675613cd4a516b943029b9fa27563760ad04694cc38c6eed"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1994-004",
+   "short": "Ley 4/1994, de 10 de noviembre",
+   "title": "Ley 4/1994, de 10 de noviembre, de protección y atención a menores.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-28598",
+   "versions": [
+    {
+     "from": "1994-11-25",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1994-28598",
+     "sha256": "f0c573a1f8ea349a6ad396c18de53b6de963ab803e1c965ff85e099ba66abac0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1994-006",
+   "short": "Ley 6/1994, de 24 de noviembre",
+   "title": "Ley 6/1994, de 24 de noviembre, de Balnearios y de Aguas Minero-Medicinales y/o Termales.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-2731",
+   "versions": [
+    {
+     "from": "1994-12-23",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-2731",
+     "sha256": "cfe20d3c37802c28e30fc48ac39734f164623334ac3ad9b1e95f47debaa46e4c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1994-008",
+   "short": "Ley 8/1994, de 23 de diciembre",
+   "title": "Ley 8/1994, de 23 de diciembre, de Cajas de Ahorros.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-4581",
+   "versions": [
+    {
+     "from": "1995-01-22",
+     "units": 92,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-4581",
+     "sha256": "59fb0c0d77d1aa118f9e3170bc4fbc4323859944c3269b31b0fb7d70706ad1dc"
+    },
+    {
+     "from": "2004-06-02",
+     "units": 95,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-4581",
+     "sha256": "59fb0c0d77d1aa118f9e3170bc4fbc4323859944c3269b31b0fb7d70706ad1dc"
+    },
+    {
+     "from": "2011-02-03",
+     "units": 105,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-4581",
+     "sha256": "59fb0c0d77d1aa118f9e3170bc4fbc4323859944c3269b31b0fb7d70706ad1dc"
+    },
+    {
+     "from": "2014-02-21",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-4581",
+     "sha256": "59fb0c0d77d1aa118f9e3170bc4fbc4323859944c3269b31b0fb7d70706ad1dc"
+    },
+    {
+     "from": "2015-02-12",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-4581",
+     "sha256": "59fb0c0d77d1aa118f9e3170bc4fbc4323859944c3269b31b0fb7d70706ad1dc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1995-002",
+   "short": "Ley 2/1995, de 6 de abril",
+   "title": "Ley 2/1995, de 6 de abril, del Deporte de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-12743",
+   "versions": [
+    {
+     "from": "1995-04-30",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-12743",
+     "sha256": "54c7ec948ea9bac009e6500d3748af7995e771d8fb2f39e87ffc80a58e6b90b1"
+    },
+    {
+     "from": "2015-10-21",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-12743",
+     "sha256": "54c7ec948ea9bac009e6500d3748af7995e771d8fb2f39e87ffc80a58e6b90b1"
+    },
+    {
+     "from": "2019-04-10",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-12743",
+     "sha256": "54c7ec948ea9bac009e6500d3748af7995e771d8fb2f39e87ffc80a58e6b90b1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1995-007",
+   "short": "Ley 7/1995, de 27 de abril",
+   "title": "Ley 7/1995, de 27 de abril, de Carreteras de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-15454",
+   "versions": [
+    {
+     "from": "1995-06-05",
+     "units": 60,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-15454",
+     "sha256": "b849e91192444ccd318687d94316ae04e784381c828da420d6a24b5ffa19a2b8"
+    },
+    {
+     "from": "2002-01-01",
+     "units": 60,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-15454",
+     "sha256": "b849e91192444ccd318687d94316ae04e784381c828da420d6a24b5ffa19a2b8"
+    },
+    {
+     "from": "2018-05-16",
+     "units": 60,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-15454",
+     "sha256": "b849e91192444ccd318687d94316ae04e784381c828da420d6a24b5ffa19a2b8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1997-003",
+   "short": "Ley 3/1997, de 20 de marzo",
+   "title": "Ley 3/1997, de 20 de marzo, de Extinción de Cámaras Agrarias Locales.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-11540",
+   "versions": [
+    {
+     "from": "1997-04-30",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-11540",
+     "sha256": "d5a02e814266ca3c5df6e37536b76774e1de2596325ff80cc2f5186e9cb47a14"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-11540",
+     "sha256": "d5a02e814266ca3c5df6e37536b76774e1de2596325ff80cc2f5186e9cb47a14"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1998-005",
+   "short": "Ley 5/1998, de 18 de junio",
+   "title": "Ley 5/1998, de 18 de junio, de creación del Colegio Oficial de Podólogos de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-19728",
+   "versions": [
+    {
+     "from": "1998-07-19",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-19728",
+     "sha256": "ef31905ce6f5720b4827d4d9d7971d947c4a4135bf9a08f7d43f57545266b1c4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1998-006",
+   "short": "Ley 6/1998, de 18 de junio",
+   "title": "Ley 6/1998, de 18 de junio, del Juego de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-19729",
+   "versions": [
+    {
+     "from": "1998-08-07",
+     "units": 50,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-19729",
+     "sha256": "b52515414ce5b93e6bca2975f9443c5ba22dd7b659d45b7e2b37f97fdd27c516"
+    },
+    {
+     "from": "1999-01-01",
+     "units": 51,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-19729",
+     "sha256": "b52515414ce5b93e6bca2975f9443c5ba22dd7b659d45b7e2b37f97fdd27c516"
+    },
+    {
+     "from": "2001-01-01",
+     "units": 51,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-19729",
+     "sha256": "b52515414ce5b93e6bca2975f9443c5ba22dd7b659d45b7e2b37f97fdd27c516"
+    },
+    {
+     "from": "2002-01-01",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-19729",
+     "sha256": "b52515414ce5b93e6bca2975f9443c5ba22dd7b659d45b7e2b37f97fdd27c516"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-19729",
+     "sha256": "b52515414ce5b93e6bca2975f9443c5ba22dd7b659d45b7e2b37f97fdd27c516"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 54,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-19729",
+     "sha256": "b52515414ce5b93e6bca2975f9443c5ba22dd7b659d45b7e2b37f97fdd27c516"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-19729",
+     "sha256": "b52515414ce5b93e6bca2975f9443c5ba22dd7b659d45b7e2b37f97fdd27c516"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-19729",
+     "sha256": "b52515414ce5b93e6bca2975f9443c5ba22dd7b659d45b7e2b37f97fdd27c516"
+    },
+    {
+     "from": "2012-01-25",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-19729",
+     "sha256": "b52515414ce5b93e6bca2975f9443c5ba22dd7b659d45b7e2b37f97fdd27c516"
+    },
+    {
+     "from": "2012-06-29",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-19729",
+     "sha256": "b52515414ce5b93e6bca2975f9443c5ba22dd7b659d45b7e2b37f97fdd27c516"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 56,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-19729",
+     "sha256": "b52515414ce5b93e6bca2975f9443c5ba22dd7b659d45b7e2b37f97fdd27c516"
+    },
+    {
+     "from": "2018-08-06",
+     "units": 56,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-19729",
+     "sha256": "b52515414ce5b93e6bca2975f9443c5ba22dd7b659d45b7e2b37f97fdd27c516"
+    },
+    {
+     "from": "2019-02-08",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-19729",
+     "sha256": "b52515414ce5b93e6bca2975f9443c5ba22dd7b659d45b7e2b37f97fdd27c516"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1998-008",
+   "short": "Ley 8/1998, de 26 de junio",
+   "title": "Ley 8/1998, de 26 de junio, de Conservación de la Naturaleza y de Espacios Naturales de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-20256",
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "units": 95,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-20256",
+     "sha256": "6d6e1ba0aee6eae5cf76819b086c9afb39f49944e3edf682f0f59131275d4727"
+    },
+    {
+     "from": "2007-01-30",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-20256",
+     "sha256": "6d6e1ba0aee6eae5cf76819b086c9afb39f49944e3edf682f0f59131275d4727"
+    },
+    {
+     "from": "2010-09-24",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-20256",
+     "sha256": "6d6e1ba0aee6eae5cf76819b086c9afb39f49944e3edf682f0f59131275d4727"
+    },
+    {
+     "from": "2013-12-18",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-20256",
+     "sha256": "6d6e1ba0aee6eae5cf76819b086c9afb39f49944e3edf682f0f59131275d4727"
+    },
+    {
+     "from": "2016-12-15",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-20256",
+     "sha256": "6d6e1ba0aee6eae5cf76819b086c9afb39f49944e3edf682f0f59131275d4727"
+    },
+    {
+     "from": "2023-03-24",
+     "units": 108,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-20256",
+     "sha256": "6d6e1ba0aee6eae5cf76819b086c9afb39f49944e3edf682f0f59131275d4727"
+    },
+    {
+     "from": "2025-09-23",
+     "units": 108,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-20256",
+     "sha256": "6d6e1ba0aee6eae5cf76819b086c9afb39f49944e3edf682f0f59131275d4727"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1999-001",
+   "short": "Ley 1/1999, de 29 de marzo",
+   "title": "Ley 1/1999, de 29 de marzo, de Prevención, Asistencia y Reinserción de las Drogodependencias de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1999-11832",
+   "versions": [
+    {
+     "from": "1999-04-21",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-11832",
+     "sha256": "7d99246b979b4c7f2adbbfa72e960b94e8e41520e51e23bd3d4a8479ad4e0d4a"
+    },
+    {
+     "from": "2003-03-23",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-11832",
+     "sha256": "7d99246b979b4c7f2adbbfa72e960b94e8e41520e51e23bd3d4a8479ad4e0d4a"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-11832",
+     "sha256": "7d99246b979b4c7f2adbbfa72e960b94e8e41520e51e23bd3d4a8479ad4e0d4a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1999-002",
+   "short": "Ley 2/1999, de 29 de marzo",
+   "title": "Ley 2/1999, de 29 de marzo, de Patrimonio Histórico y Cultural de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1999-13022",
+   "versions": [
+    {
+     "from": "1999-05-23",
+     "units": 116,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-13022",
+     "sha256": "b73e4a9e544270d5589ce01a118714fbff810b755a9754ed8c65a8cde47adea2"
+    },
+    {
+     "from": "2007-05-16",
+     "units": 116,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-13022",
+     "sha256": "b73e4a9e544270d5589ce01a118714fbff810b755a9754ed8c65a8cde47adea2"
+    },
+    {
+     "from": "2010-12-09",
+     "units": 116,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-13022",
+     "sha256": "b73e4a9e544270d5589ce01a118714fbff810b755a9754ed8c65a8cde47adea2"
+    },
+    {
+     "from": "2011-02-22",
+     "units": 116,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-13022",
+     "sha256": "b73e4a9e544270d5589ce01a118714fbff810b755a9754ed8c65a8cde47adea2"
+    },
+    {
+     "from": "2018-05-16",
+     "units": 116,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-13022",
+     "sha256": "b73e4a9e544270d5589ce01a118714fbff810b755a9754ed8c65a8cde47adea2"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 116,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-13022",
+     "sha256": "b73e4a9e544270d5589ce01a118714fbff810b755a9754ed8c65a8cde47adea2"
+    },
+    {
+     "from": "2020-05-13",
+     "units": 116,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-13022",
+     "sha256": "b73e4a9e544270d5589ce01a118714fbff810b755a9754ed8c65a8cde47adea2"
+    },
+    {
+     "from": "2020-12-04",
+     "units": 116,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-13022",
+     "sha256": "b73e4a9e544270d5589ce01a118714fbff810b755a9754ed8c65a8cde47adea2"
+    },
+    {
+     "from": "2021-03-09",
+     "units": 116,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-13022",
+     "sha256": "b73e4a9e544270d5589ce01a118714fbff810b755a9754ed8c65a8cde47adea2"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 117,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-13022",
+     "sha256": "b73e4a9e544270d5589ce01a118714fbff810b755a9754ed8c65a8cde47adea2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2000-001",
+   "short": "Ley 1/2000, de 16 de marzo",
+   "title": "Ley 1/2000, de 16 de marzo, de creación del Colegio Profesional de Protésicos Dentales de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-8512",
+   "versions": [
+    {
+     "from": "2000-04-12",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-8512",
+     "sha256": "92a62393a79fb31d859d58a04ca44a649b0abee8ac723ebe9e9fc25601694ce8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-005",
+   "short": "Ley 5/2001, de 10 de mayo",
+   "title": "Ley 5/2001, de 10 de mayo, de Crédito Cooperativo.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-13275",
+   "versions": [
+    {
+     "from": "2001-06-08",
+     "units": 98,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-13275",
+     "sha256": "d272269f3e1459c3832e82698705b2bf5792b9a9dee0593cd920fe51645fb400"
+    },
+    {
+     "from": "2004-06-02",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-13275",
+     "sha256": "d272269f3e1459c3832e82698705b2bf5792b9a9dee0593cd920fe51645fb400"
+    },
+    {
+     "from": "2014-05-27",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-13275",
+     "sha256": "d272269f3e1459c3832e82698705b2bf5792b9a9dee0593cd920fe51645fb400"
+    },
+    {
+     "from": "2014-07-29",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-13275",
+     "sha256": "d272269f3e1459c3832e82698705b2bf5792b9a9dee0593cd920fe51645fb400"
+    },
+    {
+     "from": "2015-02-12",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-13275",
+     "sha256": "d272269f3e1459c3832e82698705b2bf5792b9a9dee0593cd920fe51645fb400"
+    },
+    {
+     "from": "2018-11-03",
+     "units": 103,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-13275",
+     "sha256": "d272269f3e1459c3832e82698705b2bf5792b9a9dee0593cd920fe51645fb400"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 103,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-13275",
+     "sha256": "d272269f3e1459c3832e82698705b2bf5792b9a9dee0593cd920fe51645fb400"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-007",
+   "short": "Ley 7/2001, de 14 de junio",
+   "title": "Ley 7/2001, de 14 de junio, de creación del Servicio Extremeño Público de Empleo.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-14415",
+   "versions": [
+    {
+     "from": "2001-07-04",
+     "units": 14,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14415",
+     "sha256": "967bcbd3da069d4a3d23a96651440929dc8cc4a3c401e4e07b1e4b7d791530c7"
+    },
+    {
+     "from": "2008-05-27",
+     "units": 14,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14415",
+     "sha256": "967bcbd3da069d4a3d23a96651440929dc8cc4a3c401e4e07b1e4b7d791530c7"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 15,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14415",
+     "sha256": "967bcbd3da069d4a3d23a96651440929dc8cc4a3c401e4e07b1e4b7d791530c7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-008",
+   "short": "Ley 8/2001, de 14 de junio",
+   "title": "Ley 8/2001, de 14 de junio, por la que se regulan los Consejos Escolares de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-14416",
+   "versions": [
+    {
+     "from": "2001-07-04",
+     "units": 37,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14416",
+     "sha256": "45a6ad25ff3d86c96e953a0b3c340d4ce2d7303c8e9fa60b0a94b653d62682c2"
+    },
+    {
+     "from": "2011-09-09",
+     "units": 37,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14416",
+     "sha256": "45a6ad25ff3d86c96e953a0b3c340d4ce2d7303c8e9fa60b0a94b653d62682c2"
+    },
+    {
+     "from": "2020-11-05",
+     "units": 37,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14416",
+     "sha256": "45a6ad25ff3d86c96e953a0b3c340d4ce2d7303c8e9fa60b0a94b653d62682c2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-009",
+   "short": "Ley 9/2001, de 28 de junio",
+   "title": "Ley 9/2001, de 28 de junio, de creación del Colegio Profesional de Fisioterapeutas de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-14417",
+   "versions": [
+    {
+     "from": "2001-07-04",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14417",
+     "sha256": "9d4908e13fcb1b096fce22590cf03a3ca2e0a1252ec0afa1fe2e23fb2452784e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-010",
+   "short": "Ley 10/2001, de 28 de junio",
+   "title": "Ley 10/2001, de 28 de junio, de Salud de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-14418",
+   "versions": [
+    {
+     "from": "2001-07-04",
+     "units": 94,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14418",
+     "sha256": "1dd41ec4bd09c621a7cdf358292723514a8a33f92bca8b0d4b68661d1749d733"
+    },
+    {
+     "from": "2005-08-05",
+     "units": 94,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14418",
+     "sha256": "1dd41ec4bd09c621a7cdf358292723514a8a33f92bca8b0d4b68661d1749d733"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 94,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14418",
+     "sha256": "1dd41ec4bd09c621a7cdf358292723514a8a33f92bca8b0d4b68661d1749d733"
+    },
+    {
+     "from": "2011-04-14",
+     "units": 95,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14418",
+     "sha256": "1dd41ec4bd09c621a7cdf358292723514a8a33f92bca8b0d4b68661d1749d733"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 95,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14418",
+     "sha256": "1dd41ec4bd09c621a7cdf358292723514a8a33f92bca8b0d4b68661d1749d733"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-011",
+   "short": "Ley 11/2001, de 10 de octubre",
+   "title": "Ley 11/2001, de 10 de octubre, de creación del Instituto de la Mujer de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-22770",
+   "versions": [
+    {
+     "from": "2001-11-09",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-22770",
+     "sha256": "7173eb84f8ab86e72ecf10c6f5c4443be30aa1ddaea47f163fcde621df167a3b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-001",
+   "short": "Ley 1/2002, de 28 de febrero",
+   "title": "Ley 1/2002, de 28 de febrero, del Gobierno y de la Administración de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-7297",
+   "versions": [
+    {
+     "from": "2002-03-27",
+     "units": 144,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-7297",
+     "sha256": "1ddb7ec267bd90d9be052f903acc8d9370de64cfc9c165b3ce8086fdb2a96ab9"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 144,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-7297",
+     "sha256": "1ddb7ec267bd90d9be052f903acc8d9370de64cfc9c165b3ce8086fdb2a96ab9"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 144,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-7297",
+     "sha256": "1ddb7ec267bd90d9be052f903acc8d9370de64cfc9c165b3ce8086fdb2a96ab9"
+    },
+    {
+     "from": "2014-05-21",
+     "units": 144,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-7297",
+     "sha256": "1ddb7ec267bd90d9be052f903acc8d9370de64cfc9c165b3ce8086fdb2a96ab9"
+    },
+    {
+     "from": "2015-02-28",
+     "units": 144,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-7297",
+     "sha256": "1ddb7ec267bd90d9be052f903acc8d9370de64cfc9c165b3ce8086fdb2a96ab9"
+    },
+    {
+     "from": "2015-04-11",
+     "units": 144,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-7297",
+     "sha256": "1ddb7ec267bd90d9be052f903acc8d9370de64cfc9c165b3ce8086fdb2a96ab9"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 145,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-7297",
+     "sha256": "1ddb7ec267bd90d9be052f903acc8d9370de64cfc9c165b3ce8086fdb2a96ab9"
+    },
+    {
+     "from": "2020-06-20",
+     "units": 146,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-7297",
+     "sha256": "1ddb7ec267bd90d9be052f903acc8d9370de64cfc9c165b3ce8086fdb2a96ab9"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 146,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-7297",
+     "sha256": "1ddb7ec267bd90d9be052f903acc8d9370de64cfc9c165b3ce8086fdb2a96ab9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-002",
+   "short": "Ley 2/2002, de 25 de abril",
+   "title": "Ley 2/2002, de 25 de abril, de Protección de la Calidad del Suministro Eléctrico en Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-10908",
+   "versions": [
+    {
+     "from": "2002-06-03",
+     "units": 27,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-10908",
+     "sha256": "f9d3420befd9f70b146df2b078963887c0d06a7352b5212a82a1acd86fa1d58c"
+    },
+    {
+     "from": "2002-10-03",
+     "units": 27,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-10908",
+     "sha256": "f9d3420befd9f70b146df2b078963887c0d06a7352b5212a82a1acd86fa1d58c"
+    },
+    {
+     "from": "2003-01-28",
+     "units": 27,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-10908",
+     "sha256": "f9d3420befd9f70b146df2b078963887c0d06a7352b5212a82a1acd86fa1d58c"
+    },
+    {
+     "from": "2013-02-12",
+     "units": 27,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-10908",
+     "sha256": "f9d3420befd9f70b146df2b078963887c0d06a7352b5212a82a1acd86fa1d58c"
+    },
+    {
+     "from": "2018-11-23",
+     "units": 27,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-10908",
+     "sha256": "f9d3420befd9f70b146df2b078963887c0d06a7352b5212a82a1acd86fa1d58c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-003",
+   "short": "Ley 3/2002, de 9 de mayo",
+   "title": "Ley 3/2002, de 9 de mayo, de Comercio, de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-11417",
+   "versions": [
+    {
+     "from": "2002-06-17",
+     "units": 72,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-11417",
+     "sha256": "c991faa2312af3612d17e03630e2fd2bbdfb01f8f7e55f1e069f721b63392e71"
+    },
+    {
+     "from": "2002-10-03",
+     "units": 72,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-11417",
+     "sha256": "c991faa2312af3612d17e03630e2fd2bbdfb01f8f7e55f1e069f721b63392e71"
+    },
+    {
+     "from": "2003-02-12",
+     "units": 72,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-11417",
+     "sha256": "c991faa2312af3612d17e03630e2fd2bbdfb01f8f7e55f1e069f721b63392e71"
+    },
+    {
+     "from": "2003-03-23",
+     "units": 72,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-11417",
+     "sha256": "c991faa2312af3612d17e03630e2fd2bbdfb01f8f7e55f1e069f721b63392e71"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 72,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-11417",
+     "sha256": "c991faa2312af3612d17e03630e2fd2bbdfb01f8f7e55f1e069f721b63392e71"
+    },
+    {
+     "from": "2010-07-23",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-11417",
+     "sha256": "c991faa2312af3612d17e03630e2fd2bbdfb01f8f7e55f1e069f721b63392e71"
+    },
+    {
+     "from": "2012-10-24",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-11417",
+     "sha256": "c991faa2312af3612d17e03630e2fd2bbdfb01f8f7e55f1e069f721b63392e71"
+    },
+    {
+     "from": "2016-03-03",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-11417",
+     "sha256": "c991faa2312af3612d17e03630e2fd2bbdfb01f8f7e55f1e069f721b63392e71"
+    },
+    {
+     "from": "2018-10-27",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-11417",
+     "sha256": "c991faa2312af3612d17e03630e2fd2bbdfb01f8f7e55f1e069f721b63392e71"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-005",
+   "short": "Ley 5/2002, de 23 de mayo",
+   "title": "Ley 5/2002, de 23 de mayo, de Protección de los Animales en la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-16784",
+   "versions": [
+    {
+     "from": "2002-09-18",
+     "units": 51,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-16784",
+     "sha256": "330c173f2d2a382a16161bcc4ca2162794f23c35d4c423b13f24488bf32f3938"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 51,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-16784",
+     "sha256": "330c173f2d2a382a16161bcc4ca2162794f23c35d4c423b13f24488bf32f3938"
+    },
+    {
+     "from": "2011-06-15",
+     "units": 51,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-16784",
+     "sha256": "330c173f2d2a382a16161bcc4ca2162794f23c35d4c423b13f24488bf32f3938"
+    },
+    {
+     "from": "2019-04-30",
+     "units": 51,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-16784",
+     "sha256": "330c173f2d2a382a16161bcc4ca2162794f23c35d4c423b13f24488bf32f3938"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-009",
+   "short": "Ley 9/2002, de 14 de noviembre",
+   "title": "Ley 9/2002, de 14 de noviembre, de Impulso a la Localización Industrial de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-1415",
+   "versions": [
+    {
+     "from": "2002-12-15",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-1415",
+     "sha256": "237768e31df67faa84c42e45b557a4031760756104f86f963b0201156b343e4a"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-1415",
+     "sha256": "237768e31df67faa84c42e45b557a4031760756104f86f963b0201156b343e4a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-010",
+   "short": "Ley 10/2002, de 12 de diciembre",
+   "title": "Ley 10/2002, de 12 de diciembre, de Financiación de Inversiones Extraordinarias.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-1416",
+   "versions": [
+    {
+     "from": "2002-12-14",
+     "units": 6,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-1416",
+     "sha256": "c46b270b347767bbfa5fda6c9b20dbf0abb128545e7a1193b01d361c03f5b2f1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-011",
+   "short": "Ley 11/2002, de 12 de diciembre",
+   "title": "Ley 11/2002, de 12 de diciembre, de Colegios y de Consejos de Colegios Profesionales de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-1813",
+   "versions": [
+    {
+     "from": "2002-12-29",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-1813",
+     "sha256": "f3fdd715ee5910879abb95789835221cef7bbcf760f2f3332860d82e85748333"
+    },
+    {
+     "from": "2013-03-26",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-1813",
+     "sha256": "f3fdd715ee5910879abb95789835221cef7bbcf760f2f3332860d82e85748333"
+    },
+    {
+     "from": "2020-11-24",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-1813",
+     "sha256": "f3fdd715ee5910879abb95789835221cef7bbcf760f2f3332860d82e85748333"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-003",
+   "short": "Ley 3/2003, de 13 de marzo",
+   "title": "Ley 3/2003, de 13 de marzo, sobre participación institucional de los agentes sociales más representativos.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-7536",
+   "versions": [
+    {
+     "from": "2003-04-11",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-7536",
+     "sha256": "1645a51df8ad9c04656f14d162943044bb74ca73449c05aa1859377daa3f605b"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-7536",
+     "sha256": "1645a51df8ad9c04656f14d162943044bb74ca73449c05aa1859377daa3f605b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-004",
+   "short": "Ley 4/2003, de 20 de marzo",
+   "title": "Ley 4/2003, de 20 de marzo, de Estadística de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-9449",
+   "versions": [
+    {
+     "from": "2003-04-09",
+     "units": 42,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-9449",
+     "sha256": "2c27e0d38c8cf269351b585e7035306d0b7facfc576c91d1f9a40f8c03243f56"
+    },
+    {
+     "from": "2009-06-24",
+     "units": 42,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-9449",
+     "sha256": "2c27e0d38c8cf269351b585e7035306d0b7facfc576c91d1f9a40f8c03243f56"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 42,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-9449",
+     "sha256": "2c27e0d38c8cf269351b585e7035306d0b7facfc576c91d1f9a40f8c03243f56"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-005",
+   "short": "Ley 5/2003, de 20 de marzo",
+   "title": "Ley 5/2003, de 20 de marzo, de parejas de hecho de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-9450",
+   "versions": [
+    {
+     "from": "2003-04-09",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-9450",
+     "sha256": "5e9b49d02b7b4f9159c41f2899744680709f24832bbc5310e8a49a102a00095d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-005",
+   "short": "Ley 5/2004, de 24 de junio",
+   "title": "Ley 5/2004, de 24 de junio, de prevención y lucha contra los incendios forestales en Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-13376",
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-13376",
+     "sha256": "adf8cd9e7f3fccaacfe2d6a7963162d7203202333fb596366546d5cf701926df"
+    },
+    {
+     "from": "2015-06-26",
+     "units": 100,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-13376",
+     "sha256": "adf8cd9e7f3fccaacfe2d6a7963162d7203202333fb596366546d5cf701926df"
+    },
+    {
+     "from": "2017-05-18",
+     "units": 100,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-13376",
+     "sha256": "adf8cd9e7f3fccaacfe2d6a7963162d7203202333fb596366546d5cf701926df"
+    },
+    {
+     "from": "2019-10-18",
+     "units": 100,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-13376",
+     "sha256": "adf8cd9e7f3fccaacfe2d6a7963162d7203202333fb596366546d5cf701926df"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 100,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-13376",
+     "sha256": "adf8cd9e7f3fccaacfe2d6a7963162d7203202333fb596366546d5cf701926df"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-007",
+   "short": "Ley 7/2004, de 19 de noviembre",
+   "title": "Ley 7/2004, de 19 de noviembre, por la que se declara a Cornalvo Parque Natural.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21142",
+   "versions": [
+    {
+     "from": "2004-12-01",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-21142",
+     "sha256": "a0ec219fdbe576d3e0785b5fe52535e545de2e84029255688dcf8459b98fa6f9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-008",
+   "short": "Ley 8/2004, de 23 de diciembre",
+   "title": "Ley 8/2004, de 23 de diciembre, para la aplicación al municipio de Mérida, capital de Extremadura, del régimen de organización de los municipios de gran población contemplado en el título X de la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local, modificada por la Ley 57/2003, de 16 de diciembre, de Medidas para la Modernización del Gobierno Local.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-1083",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 4,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-1083",
+     "sha256": "c54ed2bb158417760fe463152d12084d49599224440d51ca68e550ebf4e39234"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-001",
+   "short": "Ley 1/2005, de 24 de junio",
+   "title": "Ley 1/2005, de 24 de junio, de tiempos de respuesta en la atención sanitaria especializada del sistema sanitario público de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-13022",
+   "versions": [
+    {
+     "from": "2005-10-07",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-13022",
+     "sha256": "f9104c423646387000f384da05798411a020c7a5723f33acf9466f32a1211214"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-002",
+   "short": "Ley 2/2005, de 24 de junio",
+   "title": "Ley 2/2005, de 24 de junio, de creación del Jurado de Defensa de la Competencia de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-13023",
+   "versions": [
+    {
+     "from": "2005-07-27",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-13023",
+     "sha256": "afa7736a16e35c460cbef747aa7dbdbc590e25cb2d1ae9af6975ce386ba98445"
+    },
+    {
+     "from": "2010-07-23",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-13023",
+     "sha256": "afa7736a16e35c460cbef747aa7dbdbc590e25cb2d1ae9af6975ce386ba98445"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-13023",
+     "sha256": "afa7736a16e35c460cbef747aa7dbdbc590e25cb2d1ae9af6975ce386ba98445"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-003",
+   "short": "Ley 3/2005, de 8 de julio",
+   "title": "Ley 3/2005, de 8 de julio, de información sanitaria y autonomía del paciente.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-13470",
+   "versions": [
+    {
+     "from": "2005-08-05",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-13470",
+     "sha256": "5382667104f001e00afad82149f4b9e045bcd73c868fe6a42cffe666344c9041"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-004",
+   "short": "Ley 4/2005, de 8 de julio",
+   "title": "Ley 4/2005, de 8 de julio, de reordenación del sector público empresarial de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-13471",
+   "versions": [
+    {
+     "from": "2005-07-17",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-13471",
+     "sha256": "7558e53f8655ee977536bddd9465b85c3720607602602b86eff76cd4dc66ca53"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 19,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-13471",
+     "sha256": "7558e53f8655ee977536bddd9465b85c3720607602602b86eff76cd4dc66ca53"
+    },
+    {
+     "from": "2010-12-31",
+     "units": 19,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-13471",
+     "sha256": "7558e53f8655ee977536bddd9465b85c3720607602602b86eff76cd4dc66ca53"
+    },
+    {
+     "from": "2014-02-21",
+     "units": 19,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-13471",
+     "sha256": "7558e53f8655ee977536bddd9465b85c3720607602602b86eff76cd4dc66ca53"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-006",
+   "short": "Ley 6/2005, de 27 de diciembre",
+   "title": "Ley 6/2005, de 27 de diciembre, de medidas para la asistencia y atención de las víctimas del terrorismo y de creación del Centro Extremeño de Estudios para la Paz.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-2675",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 30,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-2675",
+     "sha256": "644d25ada1a16fb4e5748923c2f3018a006d8b2ef71efa32f9206aa80210ff9c"
+    },
+    {
+     "from": "2020-03-10",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-2675",
+     "sha256": "644d25ada1a16fb4e5748923c2f3018a006d8b2ef71efa32f9206aa80210ff9c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2006-001",
+   "short": "Ley 1/2006, de 7 de julio",
+   "title": "Ley 1/2006, de 7 de julio, por la que se declara el Parque Natural del «Tajo internacional».",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-14318",
+   "versions": [
+    {
+     "from": "2006-07-09",
+     "units": 8,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-14318",
+     "sha256": "68e4dc1160dc71ed9542245c2334af46b0a802408e2fbcaac854fe08f85bfdf5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2006-004",
+   "short": "Ley 4/2006, de 10 de octubre",
+   "title": "Ley 4/2006, de 10 de octubre, por la que se crea el Colegio Profesional de Terapeutas Ocupacionales de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-19502",
+   "versions": [
+    {
+     "from": "2006-10-22",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-19502",
+     "sha256": "4a06b86f7fd94e5f9aeac606e9378357f668caceeec6dbd9842ff13434e21618"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2006-005",
+   "short": "Ley 5/2006, de 10 de octubre",
+   "title": "Ley 5/2006, de 10 de octubre, por la que se crea el Colegio Profesional de Ingenieros en Informática de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-19503",
+   "versions": [
+    {
+     "from": "2006-10-22",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-19503",
+     "sha256": "066e0082b21630274edb3cdc3e669d9bc05273ee6398964fd313cfcb88b99e35"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2006-006",
+   "short": "Ley 6/2006, de 9 de noviembre",
+   "title": "Ley 6/2006, de 9 de noviembre, de Farmacia de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-21906",
+   "versions": [
+    {
+     "from": "2006-11-17",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-21906",
+     "sha256": "49d42a02dc54a595f0e4b2a5b8c7bf48b1cab135b71c41dc3ce77ea07d720d75"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-21906",
+     "sha256": "49d42a02dc54a595f0e4b2a5b8c7bf48b1cab135b71c41dc3ce77ea07d720d75"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-21906",
+     "sha256": "49d42a02dc54a595f0e4b2a5b8c7bf48b1cab135b71c41dc3ce77ea07d720d75"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2006-002",
+   "short": "Decreto Legislativo 2/2006, de 12 de diciembre",
+   "title": "Decreto Legislativo 2/2006, de 12 de diciembre, por el que se aprueba el Texto Refundido de las disposiciones legales de la comunidad autónoma de Extremadura en materia de Tributos Propios.",
+   "url": "https://www.boe.es/buscar/act.php?id=DOE-e-2006-90037",
+   "versions": [
+    {
+     "from": "2006-12-24",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOE-e-2006-90037",
+     "sha256": "ad70cec1324524606ddec73393bee3bca966bc5526a3e8a72ea09bfa20cd7e45"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOE-e-2006-90037",
+     "sha256": "ad70cec1324524606ddec73393bee3bca966bc5526a3e8a72ea09bfa20cd7e45"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOE-e-2006-90037",
+     "sha256": "ad70cec1324524606ddec73393bee3bca966bc5526a3e8a72ea09bfa20cd7e45"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOE-e-2006-90037",
+     "sha256": "ad70cec1324524606ddec73393bee3bca966bc5526a3e8a72ea09bfa20cd7e45"
+    },
+    {
+     "from": "2011-06-15",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOE-e-2006-90037",
+     "sha256": "ad70cec1324524606ddec73393bee3bca966bc5526a3e8a72ea09bfa20cd7e45"
+    },
+    {
+     "from": "2012-01-25",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOE-e-2006-90037",
+     "sha256": "ad70cec1324524606ddec73393bee3bca966bc5526a3e8a72ea09bfa20cd7e45"
+    },
+    {
+     "from": "2012-06-29",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOE-e-2006-90037",
+     "sha256": "ad70cec1324524606ddec73393bee3bca966bc5526a3e8a72ea09bfa20cd7e45"
+    },
+    {
+     "from": "2013-12-18",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOE-e-2006-90037",
+     "sha256": "ad70cec1324524606ddec73393bee3bca966bc5526a3e8a72ea09bfa20cd7e45"
+    },
+    {
+     "from": "2016-12-15",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOE-e-2006-90037",
+     "sha256": "ad70cec1324524606ddec73393bee3bca966bc5526a3e8a72ea09bfa20cd7e45"
+    },
+    {
+     "from": "2025-04-27",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOE-e-2006-90037",
+     "sha256": "ad70cec1324524606ddec73393bee3bca966bc5526a3e8a72ea09bfa20cd7e45"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2006-008",
+   "short": "Ley 8/2006, de 23 diciembre, de Sociedades Cooperativas Especiales de Extremadura",
+   "title": "Ley 8/2006, de 23 diciembre, de Sociedades Cooperativas Especiales de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-1724",
+   "versions": [
+    {
+     "from": "2007-01-19",
+     "units": 27,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1724",
+     "sha256": "dd9fa0436d666bcfb82ad6e6c013719e45592eeb690b8a87d01b0c3808be44e3"
+    },
+    {
+     "from": "2019-01-02",
+     "units": 27,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1724",
+     "sha256": "dd9fa0436d666bcfb82ad6e6c013719e45592eeb690b8a87d01b0c3808be44e3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-001",
+   "short": "Ley 1/2007, de 20 de marzo",
+   "title": "Ley 1/2007, de 20 de marzo, de creación del Instituto de la Juventud de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-8041",
+   "versions": [
+    {
+     "from": "2007-04-16",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-8041",
+     "sha256": "d84e78aa6dfb6408b0b5659bcd55490ca65cd5f53a966b6921d2dc5ef80af488"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-8041",
+     "sha256": "d84e78aa6dfb6408b0b5659bcd55490ca65cd5f53a966b6921d2dc5ef80af488"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-002",
+   "short": "Ley 2/2007, de 12 de abril",
+   "title": "Ley 2/2007, de 12 de abril, de Archivos y Patrimonio Documental de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-10663",
+   "versions": [
+    {
+     "from": "2007-05-16",
+     "units": 61,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10663",
+     "sha256": "39634cc9ee67e2ad18e5479c4c973f59cf30c0c0bbe192fd9b023b6f84518589"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 63,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10663",
+     "sha256": "39634cc9ee67e2ad18e5479c4c973f59cf30c0c0bbe192fd9b023b6f84518589"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-004",
+   "short": "Ley 4/2007, de 19 de abril",
+   "title": "Ley 4/2007, de 19 de abril, por la que se crea el Colegio Profesional de Técnicos Superiores en Imagen para el Diagnóstico de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-10665",
+   "versions": [
+    {
+     "from": "2007-04-29",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10665",
+     "sha256": "2e635f19a0bd22b865bdcc94af22bbcdc6857aa22322af1b2474de67aea8d0dd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-005",
+   "short": "Ley 5/2007, de 19 de abril",
+   "title": "Ley 5/2007, de 19 de abril, General de Hacienda Pública de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-10666",
+   "versions": [
+    {
+     "from": "2007-08-28",
+     "units": 140,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10666",
+     "sha256": "e06b5f436fd98a09c2e8fc28cecb7f8bd58a1420c92830e6e96882546b07a14c"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 170,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10666",
+     "sha256": "e06b5f436fd98a09c2e8fc28cecb7f8bd58a1420c92830e6e96882546b07a14c"
+    },
+    {
+     "from": "2010-12-31",
+     "units": 170,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10666",
+     "sha256": "e06b5f436fd98a09c2e8fc28cecb7f8bd58a1420c92830e6e96882546b07a14c"
+    },
+    {
+     "from": "2012-01-25",
+     "units": 170,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10666",
+     "sha256": "e06b5f436fd98a09c2e8fc28cecb7f8bd58a1420c92830e6e96882546b07a14c"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 171,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10666",
+     "sha256": "e06b5f436fd98a09c2e8fc28cecb7f8bd58a1420c92830e6e96882546b07a14c"
+    },
+    {
+     "from": "2014-02-21",
+     "units": 175,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10666",
+     "sha256": "e06b5f436fd98a09c2e8fc28cecb7f8bd58a1420c92830e6e96882546b07a14c"
+    },
+    {
+     "from": "2014-04-24",
+     "units": 175,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10666",
+     "sha256": "e06b5f436fd98a09c2e8fc28cecb7f8bd58a1420c92830e6e96882546b07a14c"
+    },
+    {
+     "from": "2014-05-27",
+     "units": 175,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10666",
+     "sha256": "e06b5f436fd98a09c2e8fc28cecb7f8bd58a1420c92830e6e96882546b07a14c"
+    },
+    {
+     "from": "2015-02-12",
+     "units": 181,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10666",
+     "sha256": "e06b5f436fd98a09c2e8fc28cecb7f8bd58a1420c92830e6e96882546b07a14c"
+    },
+    {
+     "from": "2016-12-15",
+     "units": 181,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10666",
+     "sha256": "e06b5f436fd98a09c2e8fc28cecb7f8bd58a1420c92830e6e96882546b07a14c"
+    },
+    {
+     "from": "2019-04-10",
+     "units": 184,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10666",
+     "sha256": "e06b5f436fd98a09c2e8fc28cecb7f8bd58a1420c92830e6e96882546b07a14c"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 185,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10666",
+     "sha256": "e06b5f436fd98a09c2e8fc28cecb7f8bd58a1420c92830e6e96882546b07a14c"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 185,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10666",
+     "sha256": "e06b5f436fd98a09c2e8fc28cecb7f8bd58a1420c92830e6e96882546b07a14c"
+    },
+    {
+     "from": "2022-03-08",
+     "units": 185,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10666",
+     "sha256": "e06b5f436fd98a09c2e8fc28cecb7f8bd58a1420c92830e6e96882546b07a14c"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 185,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10666",
+     "sha256": "e06b5f436fd98a09c2e8fc28cecb7f8bd58a1420c92830e6e96882546b07a14c"
+    },
+    {
+     "from": "2024-02-06",
+     "units": 186,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10666",
+     "sha256": "e06b5f436fd98a09c2e8fc28cecb7f8bd58a1420c92830e6e96882546b07a14c"
+    },
+    {
+     "from": "2026-08-05",
+     "units": 186,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10666",
+     "sha256": "e06b5f436fd98a09c2e8fc28cecb7f8bd58a1420c92830e6e96882546b07a14c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-001",
+   "short": "Ley 1/2008, de 22 de mayo",
+   "title": "Ley 1/2008, de 22 de mayo, de creación de Entidades Públicas de la Junta de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2008-10058",
+   "versions": [
+    {
+     "from": "2008-05-27",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-10058",
+     "sha256": "c50dd6b0e00925c34c21508be4cd12b541d9a37590eb86c5b43f32e92b8aed6f"
+    },
+    {
+     "from": "2009-12-02",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-10058",
+     "sha256": "c50dd6b0e00925c34c21508be4cd12b541d9a37590eb86c5b43f32e92b8aed6f"
+    },
+    {
+     "from": "2012-01-25",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-10058",
+     "sha256": "c50dd6b0e00925c34c21508be4cd12b541d9a37590eb86c5b43f32e92b8aed6f"
+    },
+    {
+     "from": "2014-05-21",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-10058",
+     "sha256": "c50dd6b0e00925c34c21508be4cd12b541d9a37590eb86c5b43f32e92b8aed6f"
+    },
+    {
+     "from": "2016-05-11",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-10058",
+     "sha256": "c50dd6b0e00925c34c21508be4cd12b541d9a37590eb86c5b43f32e92b8aed6f"
+    },
+    {
+     "from": "2016-07-22",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-10058",
+     "sha256": "c50dd6b0e00925c34c21508be4cd12b541d9a37590eb86c5b43f32e92b8aed6f"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 44,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-10058",
+     "sha256": "c50dd6b0e00925c34c21508be4cd12b541d9a37590eb86c5b43f32e92b8aed6f"
+    },
+    {
+     "from": "2020-04-27",
+     "units": 44,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-10058",
+     "sha256": "c50dd6b0e00925c34c21508be4cd12b541d9a37590eb86c5b43f32e92b8aed6f"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 44,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-10058",
+     "sha256": "c50dd6b0e00925c34c21508be4cd12b541d9a37590eb86c5b43f32e92b8aed6f"
+    },
+    {
+     "from": "2023-04-01",
+     "units": 44,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-10058",
+     "sha256": "c50dd6b0e00925c34c21508be4cd12b541d9a37590eb86c5b43f32e92b8aed6f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-002",
+   "short": "Ley 2/2008, de 16 de junio",
+   "title": "Ley 2/2008, de 16 de junio, de Patrimonio de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2008-11792",
+   "versions": [
+    {
+     "from": "2008-08-17",
+     "units": 202,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-11792",
+     "sha256": "f4ba4d0697434be9db0fb45f1fc10e8b4c1c4a3ee82ec74d330acb25af07d0d0"
+    },
+    {
+     "from": "2012-06-29",
+     "units": 202,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-11792",
+     "sha256": "f4ba4d0697434be9db0fb45f1fc10e8b4c1c4a3ee82ec74d330acb25af07d0d0"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 202,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-11792",
+     "sha256": "f4ba4d0697434be9db0fb45f1fc10e8b4c1c4a3ee82ec74d330acb25af07d0d0"
+    },
+    {
+     "from": "2016-12-15",
+     "units": 202,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-11792",
+     "sha256": "f4ba4d0697434be9db0fb45f1fc10e8b4c1c4a3ee82ec74d330acb25af07d0d0"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 202,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-11792",
+     "sha256": "f4ba4d0697434be9db0fb45f1fc10e8b4c1c4a3ee82ec74d330acb25af07d0d0"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 204,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-11792",
+     "sha256": "f4ba4d0697434be9db0fb45f1fc10e8b4c1c4a3ee82ec74d330acb25af07d0d0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-003",
+   "short": "Ley 3/2008, de 16 de junio",
+   "title": "Ley 3/2008, de 16 de junio, reguladora de la Empresa Pública «Corporación Extremeña de Medios Audiovisuales».",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2008-11793",
+   "versions": [
+    {
+     "from": "2008-06-17",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-11793",
+     "sha256": "eda1c574c60d2d140a94ffa2a9da573dc8edaac66d1107f81a19fa2b1ec7ab27"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-11793",
+     "sha256": "eda1c574c60d2d140a94ffa2a9da573dc8edaac66d1107f81a19fa2b1ec7ab27"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-004",
+   "short": "Ley 4/2008, de 25 de noviembre",
+   "title": "Ley 4/2008, de 25 de noviembre, de endeudamiento extraordinario de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2008-19738",
+   "versions": [
+    {
+     "from": "2008-11-26",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-19738",
+     "sha256": "603ce2b75ce617fcc7e32a809e2f22574cb5745c09ade787b80e52ebf4ff42db"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2009-001",
+   "short": "Ley 1/2009, de 18 de febrero",
+   "title": "Ley 1/2009, de 18 de febrero, de creación del Colegio Profesional de Educadoras y Educadores Sociales de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-3856",
+   "versions": [
+    {
+     "from": "2009-02-21",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-3856",
+     "sha256": "5e9fee602e188ad97d9d3cf0be367a16eb140015c9548dbd20807b4167b7fd40"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2009-002",
+   "short": "Ley 2/2009, de 2 de marzo",
+   "title": "Ley 2/2009, de 2 de marzo, para la puesta en marcha de un Plan Extraordinario de Apoyo al Empleo Local.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-4632",
+   "versions": [
+    {
+     "from": "2009-03-07",
+     "units": 17,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-4632",
+     "sha256": "c15f01e3a37aaf14254e204203dc7ddc4fdf05383437f551d16228336464aec2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2009-003",
+   "short": "Ley 3/2009, de 22 de junio",
+   "title": "Ley 3/2009, de 22 de junio, de creación del Instituto de Estadística de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-11349",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-11349",
+     "sha256": "615e64245252e30559d9067e7586fce7de1eda4e154598b03941becaf5d6ecb5"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-11349",
+     "sha256": "615e64245252e30559d9067e7586fce7de1eda4e154598b03941becaf5d6ecb5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2009-005",
+   "short": "Ley 5/2009, de 25 de noviembre",
+   "title": "Ley 5/2009, de 25 de noviembre, de medidas urgentes en materia de transporte público regular, permanente y de uso general de viajeros por carretera.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20657",
+   "versions": [
+    {
+     "from": "2009-12-02",
+     "units": 7,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-20657",
+     "sha256": "2ae137e935c8617d191d9ba48feccd85e508f5959fab165d8d2ca8580e79977b"
+    },
+    {
+     "from": "2021-06-09",
+     "units": 7,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-20657",
+     "sha256": "2ae137e935c8617d191d9ba48feccd85e508f5959fab165d8d2ca8580e79977b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2009-006",
+   "short": "Ley 6/2009, de 17 de diciembre",
+   "title": "Ley 6/2009, de 17 de diciembre, del Estatuto de los extremeños en el exterior.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-597",
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 58,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-597",
+     "sha256": "d79b377a5644b4056ad86b3b03ca2956bd8cbb98cafbf6c23ae8a4d90fab4e11"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-001",
+   "short": "Ley 1/2010, de 7 de enero",
+   "title": "Ley 1/2010, de 7 de enero, del Consejo Social de la Universidad de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-1712",
+   "versions": [
+    {
+     "from": "2010-02-01",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-1712",
+     "sha256": "79712b98bf9fe2fd5677e5d97baec5519c5608dac4a0cabe70437b7ed6cb9a16"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-002",
+   "short": "Ley 2/2010, de 26 de febrero",
+   "title": "Ley 2/2010, de 26 de febrero, de creación del Colegio Profesional de Logopedas de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-4677",
+   "versions": [
+    {
+     "from": "2010-03-03",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-4677",
+     "sha256": "001f3129acd9935925b1f6b0fe0d6f9059eeebd5280f5aa7be67a1ce027ebcdb"
+    },
+    {
+     "from": "2010-12-22",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-4677",
+     "sha256": "001f3129acd9935925b1f6b0fe0d6f9059eeebd5280f5aa7be67a1ce027ebcdb"
+    },
+    {
+     "from": "2011-04-20",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-4677",
+     "sha256": "001f3129acd9935925b1f6b0fe0d6f9059eeebd5280f5aa7be67a1ce027ebcdb"
+    },
+    {
+     "from": "2013-08-01",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-4677",
+     "sha256": "001f3129acd9935925b1f6b0fe0d6f9059eeebd5280f5aa7be67a1ce027ebcdb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-003",
+   "short": "Ley 3/2010, de 26 de febrero",
+   "title": "Ley 3/2010, de 26 de febrero, de creación del Colegio Profesional de Higienistas Dentales de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-4678",
+   "versions": [
+    {
+     "from": "2010-03-03",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-4678",
+     "sha256": "ede68c6564561de2c8fe3324cd99a0a0c56f6b2ac9d102c0b66db2db88f7ddf7"
+    },
+    {
+     "from": "2010-12-22",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-4678",
+     "sha256": "ede68c6564561de2c8fe3324cd99a0a0c56f6b2ac9d102c0b66db2db88f7ddf7"
+    },
+    {
+     "from": "2011-04-20",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-4678",
+     "sha256": "ede68c6564561de2c8fe3324cd99a0a0c56f6b2ac9d102c0b66db2db88f7ddf7"
+    },
+    {
+     "from": "2013-08-01",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-4678",
+     "sha256": "ede68c6564561de2c8fe3324cd99a0a0c56f6b2ac9d102c0b66db2db88f7ddf7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-004",
+   "short": "Ley 4/2010, de 28 de abril",
+   "title": "Ley 4/2010, de 28 de abril, de Denominaciones de Origen e Indicaciones Geográficas de Calidad Agroalimentaria de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-7860",
+   "versions": [
+    {
+     "from": "2010-05-20",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-7860",
+     "sha256": "41d8610f58e3c2058df3fb277be3440b7be75cfeac8d9e1c686caa0ec7ae3f74"
+    },
+    {
+     "from": "2016-03-22",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-7860",
+     "sha256": "41d8610f58e3c2058df3fb277be3440b7be75cfeac8d9e1c686caa0ec7ae3f74"
+    },
+    {
+     "from": "2020-06-20",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-7860",
+     "sha256": "41d8610f58e3c2058df3fb277be3440b7be75cfeac8d9e1c686caa0ec7ae3f74"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-008",
+   "short": "Ley 8/2010, de 19 de julio",
+   "title": "Ley 8/2010, de 19 de julio, de Actividades Feriales de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-12769",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "units": 33,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-12769",
+     "sha256": "25962fd4b923277e52fdf1d6a06e3f17cc3507bb2348ea5d4c192fe79c9596fb"
+    },
+    {
+     "from": "2012-10-24",
+     "units": 33,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-12769",
+     "sha256": "25962fd4b923277e52fdf1d6a06e3f17cc3507bb2348ea5d4c192fe79c9596fb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-010",
+   "short": "Ley 10/2010, de 16 de noviembre",
+   "title": "Ley 10/2010, de 16 de noviembre, de la ciencia, la tecnología y la innovación de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-19047",
+   "versions": [
+    {
+     "from": "2010-11-20",
+     "units": 103,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-19047",
+     "sha256": "e4ced90f77e781d5ec86315e9b8a8b9822a8af60e2bb6d873449b2231c3e52dd"
+    },
+    {
+     "from": "2016-06-11",
+     "units": 103,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-19047",
+     "sha256": "e4ced90f77e781d5ec86315e9b8a8b9822a8af60e2bb6d873449b2231c3e52dd"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 103,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-19047",
+     "sha256": "e4ced90f77e781d5ec86315e9b8a8b9822a8af60e2bb6d873449b2231c3e52dd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-011",
+   "short": "Ley 11/2010, de 16 de noviembre",
+   "title": "Ley 11/2010, de 16 de noviembre, de pesca y acuicultura de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-19048",
+   "versions": [
+    {
+     "from": "2011-02-19",
+     "units": 87,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-19048",
+     "sha256": "b9f3c65f9818597d664f04fc1bf37fee738359217f9f2ca5457128690e7bf741"
+    },
+    {
+     "from": "2019-04-30",
+     "units": 87,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-19048",
+     "sha256": "b9f3c65f9818597d664f04fc1bf37fee738359217f9f2ca5457128690e7bf741"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 87,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-19048",
+     "sha256": "b9f3c65f9818597d664f04fc1bf37fee738359217f9f2ca5457128690e7bf741"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-012",
+   "short": "Ley 12/2010, de 16 de noviembre",
+   "title": "Ley 12/2010, de 16 de noviembre, de impulso al nacimiento y consolidación de empresas en la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-19049",
+   "versions": [
+    {
+     "from": "2010-12-09",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-19049",
+     "sha256": "ad0da7e943ea33aac5237202b06c9571071a719e3421ad7f5ad833b23c8f154c"
+    },
+    {
+     "from": "2015-04-11",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-19049",
+     "sha256": "ad0da7e943ea33aac5237202b06c9571071a719e3421ad7f5ad833b23c8f154c"
+    },
+    {
+     "from": "2015-06-29",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-19049",
+     "sha256": "ad0da7e943ea33aac5237202b06c9571071a719e3421ad7f5ad833b23c8f154c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-013",
+   "short": "Ley 13/2010, de 24 de noviembre",
+   "title": "Ley 13/2010, de 24 de noviembre, del Consejo de la Juventud de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-19215",
+   "versions": [
+    {
+     "from": "2010-11-27",
+     "units": 32,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-19215",
+     "sha256": "6c048163abbe2cdbabf1e8e89ff9928f07b7e68a337f4d2b8ed667f0eddd4107"
+    },
+    {
+     "from": "2013-04-04",
+     "units": 32,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-19215",
+     "sha256": "6c048163abbe2cdbabf1e8e89ff9928f07b7e68a337f4d2b8ed667f0eddd4107"
+    },
+    {
+     "from": "2014-05-21",
+     "units": 32,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-19215",
+     "sha256": "6c048163abbe2cdbabf1e8e89ff9928f07b7e68a337f4d2b8ed667f0eddd4107"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-014",
+   "short": "Ley 14/2010, de 9 de diciembre",
+   "title": "Ley 14/2010, de 9 de diciembre, de caza de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-19851",
+   "versions": [
+    {
+     "from": "2011-06-15",
+     "units": 109,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-19851",
+     "sha256": "4d23b33b08540db32b4e2e37cc11613846a7107f6ca6a7f57ce98567152996bd"
+    },
+    {
+     "from": "2015-01-12",
+     "units": 109,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-19851",
+     "sha256": "4d23b33b08540db32b4e2e37cc11613846a7107f6ca6a7f57ce98567152996bd"
+    },
+    {
+     "from": "2019-04-30",
+     "units": 110,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-19851",
+     "sha256": "4d23b33b08540db32b4e2e37cc11613846a7107f6ca6a7f57ce98567152996bd"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 110,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-19851",
+     "sha256": "4d23b33b08540db32b4e2e37cc11613846a7107f6ca6a7f57ce98567152996bd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-015",
+   "short": "Ley 15/2010, de 9 de diciembre",
+   "title": "Ley 15/2010, de 9 de diciembre, de responsabilidad social empresarial en Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-19852",
+   "versions": [
+    {
+     "from": "2011-01-04",
+     "units": 33,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-19852",
+     "sha256": "9d9a4fca0d13844216641ba86edf012cf1d53ddb15ed71f567e4dc032d79fc89"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-016",
+   "short": "Ley 16/2010, de 21 de diciembre",
+   "title": "Ley 16/2010, de 21 de diciembre, de actuación integral en zonas de atención especial de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-554",
+   "versions": [
+    {
+     "from": "2011-01-12",
+     "units": 19,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-554",
+     "sha256": "989394c24c1bdfad6b29239787355c66472560cb6c54f2092c982a911a93e647"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-017",
+   "short": "Ley 17/2010, de 22 de diciembre",
+   "title": "Ley 17/2010, de 22 de diciembre, de mancomunidades y entidades locales menores de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-555",
+   "versions": [
+    {
+     "from": "2010-12-24",
+     "units": 123,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-555",
+     "sha256": "9739d1eee3599cff782f61f13d52a15666430d654f22b22ebaa67d5eb1a7d058"
+    },
+    {
+     "from": "2014-06-12",
+     "units": 123,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-555",
+     "sha256": "9739d1eee3599cff782f61f13d52a15666430d654f22b22ebaa67d5eb1a7d058"
+    },
+    {
+     "from": "2015-03-10",
+     "units": 124,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-555",
+     "sha256": "9739d1eee3599cff782f61f13d52a15666430d654f22b22ebaa67d5eb1a7d058"
+    },
+    {
+     "from": "2022-03-22",
+     "units": 124,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-555",
+     "sha256": "9739d1eee3599cff782f61f13d52a15666430d654f22b22ebaa67d5eb1a7d058"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 124,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-555",
+     "sha256": "9739d1eee3599cff782f61f13d52a15666430d654f22b22ebaa67d5eb1a7d058"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-020",
+   "short": "Ley 20/2010, de 28 de diciembre",
+   "title": "Ley 20/2010, de 28 de diciembre, de concentración empresarial pública en la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1145",
+   "versions": [
+    {
+     "from": "2010-12-31",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-1145",
+     "sha256": "7c72982b31c573c951c488d82ca538f450db27848ff3f926100d2e4e4cedbe08"
+    },
+    {
+     "from": "2014-02-21",
+     "units": 19,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-1145",
+     "sha256": "7c72982b31c573c951c488d82ca538f450db27848ff3f926100d2e4e4cedbe08"
+    },
+    {
+     "from": "2016-12-15",
+     "units": 19,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-1145",
+     "sha256": "7c72982b31c573c951c488d82ca538f450db27848ff3f926100d2e4e4cedbe08"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-002",
+   "short": "Ley 2/2011, de 31 de enero",
+   "title": "Ley 2/2011, de 31 de enero, de desarrollo y modernización del turismo de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-3179",
+   "versions": [
+    {
+     "from": "2011-08-02",
+     "units": 140,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-3179",
+     "sha256": "9e03a02982b59393bc352a9f4b29b884aad61e22721dd1fed8cce0e7e7fc5b14"
+    },
+    {
+     "from": "2012-06-26",
+     "units": 140,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-3179",
+     "sha256": "9e03a02982b59393bc352a9f4b29b884aad61e22721dd1fed8cce0e7e7fc5b14"
+    },
+    {
+     "from": "2014-08-07",
+     "units": 140,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-3179",
+     "sha256": "9e03a02982b59393bc352a9f4b29b884aad61e22721dd1fed8cce0e7e7fc5b14"
+    },
+    {
+     "from": "2018-07-17",
+     "units": 144,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-3179",
+     "sha256": "9e03a02982b59393bc352a9f4b29b884aad61e22721dd1fed8cce0e7e7fc5b14"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 144,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-3179",
+     "sha256": "9e03a02982b59393bc352a9f4b29b884aad61e22721dd1fed8cce0e7e7fc5b14"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-004",
+   "short": "Ley 4/2011, de 7 de marzo",
+   "title": "Ley 4/2011, de 7 de marzo, de educación de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-5297",
+   "versions": [
+    {
+     "from": "2011-09-09",
+     "units": 208,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-5297",
+     "sha256": "527f65ab2bb567db6190b7e2402352a494c9c6fd3df6fa507a23a2a8de9bd905"
+    },
+    {
+     "from": "2015-04-10",
+     "units": 208,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-5297",
+     "sha256": "527f65ab2bb567db6190b7e2402352a494c9c6fd3df6fa507a23a2a8de9bd905"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-006",
+   "short": "Ley 6/2011, de 23 de marzo",
+   "title": "Ley 6/2011, de 23 de marzo, de subvenciones de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-6649",
+   "versions": [
+    {
+     "from": "2011-06-25",
+     "units": 86,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6649",
+     "sha256": "8645b742a357bd6f66158270999763d453d1d5d3cb7bc798fbceece68e3d026e"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 86,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6649",
+     "sha256": "8645b742a357bd6f66158270999763d453d1d5d3cb7bc798fbceece68e3d026e"
+    },
+    {
+     "from": "2014-02-21",
+     "units": 87,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6649",
+     "sha256": "8645b742a357bd6f66158270999763d453d1d5d3cb7bc798fbceece68e3d026e"
+    },
+    {
+     "from": "2014-10-03",
+     "units": 88,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6649",
+     "sha256": "8645b742a357bd6f66158270999763d453d1d5d3cb7bc798fbceece68e3d026e"
+    },
+    {
+     "from": "2015-02-20",
+     "units": 89,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6649",
+     "sha256": "8645b742a357bd6f66158270999763d453d1d5d3cb7bc798fbceece68e3d026e"
+    },
+    {
+     "from": "2015-04-10",
+     "units": 89,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6649",
+     "sha256": "8645b742a357bd6f66158270999763d453d1d5d3cb7bc798fbceece68e3d026e"
+    },
+    {
+     "from": "2016-12-15",
+     "units": 90,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6649",
+     "sha256": "8645b742a357bd6f66158270999763d453d1d5d3cb7bc798fbceece68e3d026e"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 90,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6649",
+     "sha256": "8645b742a357bd6f66158270999763d453d1d5d3cb7bc798fbceece68e3d026e"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 92,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6649",
+     "sha256": "8645b742a357bd6f66158270999763d453d1d5d3cb7bc798fbceece68e3d026e"
+    },
+    {
+     "from": "2024-06-05",
+     "units": 92,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6649",
+     "sha256": "8645b742a357bd6f66158270999763d453d1d5d3cb7bc798fbceece68e3d026e"
+    },
+    {
+     "from": "2026-08-05",
+     "units": 92,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6649",
+     "sha256": "8645b742a357bd6f66158270999763d453d1d5d3cb7bc798fbceece68e3d026e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-007",
+   "short": "Ley 7/2011, de 23 de marzo",
+   "title": "Ley 7/2011, de 23 de marzo, de salud pública de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-6650",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6650",
+     "sha256": "7a1d5f444c7198c9910a927400fcc1020cbba057f6e1344d46b02ec970ff5c7d"
+    },
+    {
+     "from": "2020-07-28",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6650",
+     "sha256": "7a1d5f444c7198c9910a927400fcc1020cbba057f6e1344d46b02ec970ff5c7d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-008",
+   "short": "Ley 8/2011, de 23 de marzo",
+   "title": "Ley 8/2011, de 23 de marzo, de Igualdad entre mujeres y hombres y contra la violencia de género en Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-6651",
+   "versions": [
+    {
+     "from": "2011-03-26",
+     "units": 114,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6651",
+     "sha256": "b942811aee559c771d9b4ecc8ffead07830a2031c791d4af448a95b0b1995410"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-002",
+   "short": "Ley 2/2012, de 28 de junio",
+   "title": "Ley 2/2012, de 28 de junio, de medidas urgentes en materia tributaria, financiera y de juego de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9283",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9283",
+     "sha256": "14a7e83be7e1c6af609d436dc88f679e93f58a1199f34c63b0958fafac449ae2"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9283",
+     "sha256": "14a7e83be7e1c6af609d436dc88f679e93f58a1199f34c63b0958fafac449ae2"
+    },
+    {
+     "from": "2013-06-26",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9283",
+     "sha256": "14a7e83be7e1c6af609d436dc88f679e93f58a1199f34c63b0958fafac449ae2"
+    },
+    {
+     "from": "2013-12-18",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9283",
+     "sha256": "14a7e83be7e1c6af609d436dc88f679e93f58a1199f34c63b0958fafac449ae2"
+    },
+    {
+     "from": "2015-02-12",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9283",
+     "sha256": "14a7e83be7e1c6af609d436dc88f679e93f58a1199f34c63b0958fafac449ae2"
+    },
+    {
+     "from": "2016-12-15",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9283",
+     "sha256": "14a7e83be7e1c6af609d436dc88f679e93f58a1199f34c63b0958fafac449ae2"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9283",
+     "sha256": "14a7e83be7e1c6af609d436dc88f679e93f58a1199f34c63b0958fafac449ae2"
+    },
+    {
+     "from": "2025-01-29",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9283",
+     "sha256": "14a7e83be7e1c6af609d436dc88f679e93f58a1199f34c63b0958fafac449ae2"
+    },
+    {
+     "from": "2025-04-08",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9283",
+     "sha256": "14a7e83be7e1c6af609d436dc88f679e93f58a1199f34c63b0958fafac449ae2"
+    },
+    {
+     "from": "2026-08-05",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9283",
+     "sha256": "14a7e83be7e1c6af609d436dc88f679e93f58a1199f34c63b0958fafac449ae2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2013-004",
+   "short": "Ley 4/2013, de 21 de mayo",
+   "title": "Ley 4/2013, de 21 de mayo, de Gobierno Abierto de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-6050",
+   "versions": [
+    {
+     "from": "2013-11-24",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-6050",
+     "sha256": "c7791d42182dd01c8228d35b50f5af14642be09e1f83a9433fd4b72cf2d8b672"
+    },
+    {
+     "from": "2015-02-12",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-6050",
+     "sha256": "c7791d42182dd01c8228d35b50f5af14642be09e1f83a9433fd4b72cf2d8b672"
+    },
+    {
+     "from": "2015-04-10",
+     "units": 58,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-6050",
+     "sha256": "c7791d42182dd01c8228d35b50f5af14642be09e1f83a9433fd4b72cf2d8b672"
+    },
+    {
+     "from": "2015-12-30",
+     "units": 58,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-6050",
+     "sha256": "c7791d42182dd01c8228d35b50f5af14642be09e1f83a9433fd4b72cf2d8b672"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 59,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-6050",
+     "sha256": "c7791d42182dd01c8228d35b50f5af14642be09e1f83a9433fd4b72cf2d8b672"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 59,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-6050",
+     "sha256": "c7791d42182dd01c8228d35b50f5af14642be09e1f83a9433fd4b72cf2d8b672"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2013-008",
+   "short": "Ley 8/2013, de 27 de diciembre",
+   "title": "Ley 8/2013, de 27 de diciembre, de comunicación y publicidad institucional de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-754",
+   "versions": [
+    {
+     "from": "2014-01-19",
+     "units": 19,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-754",
+     "sha256": "f4ac0fbdb776a836c3f07b987d65c37eae0a16fbd686d4f912244c5307708d83"
+    },
+    {
+     "from": "2014-02-21",
+     "units": 19,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-754",
+     "sha256": "f4ac0fbdb776a836c3f07b987d65c37eae0a16fbd686d4f912244c5307708d83"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2014-001",
+   "short": "Ley 1/2014, de 18 de febrero",
+   "title": "Ley 1/2014, de 18 de febrero, de regulación del estatuto de los cargos públicos del Gobierno y la Administración de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-2383",
+   "versions": [
+    {
+     "from": "2014-05-21",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-2383",
+     "sha256": "bfd2600e75a7143779e08906b1de92e4258f2169fecbea06bd68de514e6c8a98"
+    },
+    {
+     "from": "2015-02-28",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-2383",
+     "sha256": "bfd2600e75a7143779e08906b1de92e4258f2169fecbea06bd68de514e6c8a98"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-2383",
+     "sha256": "bfd2600e75a7143779e08906b1de92e4258f2169fecbea06bd68de514e6c8a98"
+    },
+    {
+     "from": "2019-10-22",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-2383",
+     "sha256": "bfd2600e75a7143779e08906b1de92e4258f2169fecbea06bd68de514e6c8a98"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-2383",
+     "sha256": "bfd2600e75a7143779e08906b1de92e4258f2169fecbea06bd68de514e6c8a98"
+    },
+    {
+     "from": "2023-07-28",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-2383",
+     "sha256": "bfd2600e75a7143779e08906b1de92e4258f2169fecbea06bd68de514e6c8a98"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2014-008",
+   "short": "Ley 8/2014, de 1 de octubre",
+   "title": "Ley 8/2014, de 1 de octubre, por la que se establece un marco de financiación estable para la Universidad de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-10745",
+   "versions": [
+    {
+     "from": "2014-10-23",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-10745",
+     "sha256": "384c9c62cdf3b720d325099424956fd0238d39e7baafb65a841ebe1eb5f48320"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2014-011",
+   "short": "Ley 11/2014, de 9 de diciembre",
+   "title": "Ley 11/2014, de 9 de diciembre, de accesibilidad universal de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13629",
+   "versions": [
+    {
+     "from": "2014-12-12",
+     "units": 46,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-13629",
+     "sha256": "13eff3426b22d7c85d96a88e44bdfc4022012fd90260f9a32e252ae9d96ea67b"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 46,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-13629",
+     "sha256": "13eff3426b22d7c85d96a88e44bdfc4022012fd90260f9a32e252ae9d96ea67b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-001",
+   "short": "Ley 1/2015, de 10 de febrero",
+   "title": "Ley 1/2015, de 10 de febrero, de medidas tributarias, administrativas y financieras de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-2340",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-2340",
+     "sha256": "ff22721a2f09655c9273b132619bc806c8a453cb5639e307da87e5cc03c83300"
+    },
+    {
+     "from": "2016-12-15",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-2340",
+     "sha256": "ff22721a2f09655c9273b132619bc806c8a453cb5639e307da87e5cc03c83300"
+    },
+    {
+     "from": "2018-01-25",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-2340",
+     "sha256": "ff22721a2f09655c9273b132619bc806c8a453cb5639e307da87e5cc03c83300"
+    },
+    {
+     "from": "2018-05-24",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-2340",
+     "sha256": "ff22721a2f09655c9273b132619bc806c8a453cb5639e307da87e5cc03c83300"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 78,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-2340",
+     "sha256": "ff22721a2f09655c9273b132619bc806c8a453cb5639e307da87e5cc03c83300"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-004",
+   "short": "Ley 4/2015, de 26 de febrero",
+   "title": "Ley 4/2015, de 26 de febrero, de regulación del proceso de transición entre gobiernos en la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3183",
+   "versions": [
+    {
+     "from": "2015-02-28",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-3183",
+     "sha256": "b0cc1a4ffcad1326e9fa87a69e54bb5d70cfbec6f19c62ed061686fd9701bfbd"
+    },
+    {
+     "from": "2026-03-14",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-3183",
+     "sha256": "b0cc1a4ffcad1326e9fa87a69e54bb5d70cfbec6f19c62ed061686fd9701bfbd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-006",
+   "short": "Ley 6/2015, de 24 de marzo",
+   "title": "Ley 6/2015, de 24 de marzo, Agraria de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4102",
+   "versions": [
+    {
+     "from": "2015-06-26",
+     "units": 399,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4102",
+     "sha256": "3a0b139e3a7ed1d7d323012ccd8bfe901f13675bfecb223e27449aa39b423dce"
+    },
+    {
+     "from": "2016-03-22",
+     "units": 399,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4102",
+     "sha256": "3a0b139e3a7ed1d7d323012ccd8bfe901f13675bfecb223e27449aa39b423dce"
+    },
+    {
+     "from": "2016-06-29",
+     "units": 399,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4102",
+     "sha256": "3a0b139e3a7ed1d7d323012ccd8bfe901f13675bfecb223e27449aa39b423dce"
+    },
+    {
+     "from": "2018-05-16",
+     "units": 399,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4102",
+     "sha256": "3a0b139e3a7ed1d7d323012ccd8bfe901f13675bfecb223e27449aa39b423dce"
+    },
+    {
+     "from": "2019-01-02",
+     "units": 399,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4102",
+     "sha256": "3a0b139e3a7ed1d7d323012ccd8bfe901f13675bfecb223e27449aa39b423dce"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 399,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4102",
+     "sha256": "3a0b139e3a7ed1d7d323012ccd8bfe901f13675bfecb223e27449aa39b423dce"
+    },
+    {
+     "from": "2020-06-20",
+     "units": 400,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4102",
+     "sha256": "3a0b139e3a7ed1d7d323012ccd8bfe901f13675bfecb223e27449aa39b423dce"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 401,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4102",
+     "sha256": "3a0b139e3a7ed1d7d323012ccd8bfe901f13675bfecb223e27449aa39b423dce"
+    },
+    {
+     "from": "2025-05-24",
+     "units": 401,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4102",
+     "sha256": "3a0b139e3a7ed1d7d323012ccd8bfe901f13675bfecb223e27449aa39b423dce"
+    },
+    {
+     "from": "2025-06-26",
+     "units": 401,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4102",
+     "sha256": "3a0b139e3a7ed1d7d323012ccd8bfe901f13675bfecb223e27449aa39b423dce"
+    },
+    {
+     "from": "2025-09-23",
+     "units": 401,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4102",
+     "sha256": "3a0b139e3a7ed1d7d323012ccd8bfe901f13675bfecb223e27449aa39b423dce"
+    },
+    {
+     "from": "2025-10-03",
+     "units": 401,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4102",
+     "sha256": "3a0b139e3a7ed1d7d323012ccd8bfe901f13675bfecb223e27449aa39b423dce"
+    },
+    {
+     "from": "2026-09-09",
+     "units": 401,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4102",
+     "sha256": "3a0b139e3a7ed1d7d323012ccd8bfe901f13675bfecb223e27449aa39b423dce"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-007",
+   "short": "Ley 7/2015, de 31 de marzo",
+   "title": "Ley 7/2015, de 31 de marzo, por la que se regula el Estatuto de Capitalidad de la Ciudad de Mérida.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4328",
+   "versions": [
+    {
+     "from": "2015-04-08",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4328",
+     "sha256": "f47f3d6415aa57ef190635c31e3ea8a0c58a1f04cd604d298c310ebf1ce20504"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-008",
+   "short": "Ley 8/2015, de 31 de marzo",
+   "title": "Ley 8/2015, de 31 de marzo, de creación del Colegio Profesional de Técnicos Superiores en Laboratorio Clínico y Biomédico.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4329",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4329",
+     "sha256": "005534536b8d676cf7bf272858c27d55fa175cf6c80b0c1c3095b4e4154db256"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-009",
+   "short": "Ley 9/2015, de 31 de marzo",
+   "title": "Ley 9/2015, de 31 de marzo, por la que se regula la figura y funciones de los Cronistas Oficiales de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4330",
+   "versions": [
+    {
+     "from": "2015-04-07",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4330",
+     "sha256": "797f26331c7c5b02ce641cc6a672c72f1ce818638089dd4688b4c77dce203aca"
+    },
+    {
+     "from": "2016-12-14",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-4330",
+     "sha256": "797f26331c7c5b02ce641cc6a672c72f1ce818638089dd4688b4c77dce203aca"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-011",
+   "short": "Ley 11/2015, de 8 de abril",
+   "title": "Ley 11/2015, de 8 de abril, de Autoridad de profesionales del Sistema Sanitario Público y centros sociosanitarios de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-5014",
+   "versions": [
+    {
+     "from": "2015-04-11",
+     "units": 19,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5014",
+     "sha256": "c79e47381ddf517e4a5d0eff21c15811f7f111d4ba5956ea597178b087223d59"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-012",
+   "short": "Ley 12/2015, de 8 de abril",
+   "title": "Ley 12/2015, de 8 de abril, de igualdad social de lesbianas, gais, bisexuales, transexuales, transgénero e intersexuales y de políticas públicas contra la discriminación por orientación sexual e identidad de género en la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-5015",
+   "versions": [
+    {
+     "from": "2015-04-11",
+     "units": 60,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5015",
+     "sha256": "4db68fc56c55e6b5fccbb2c6f3b41803e5b9c17b130d2cb6325dc16b506c3faa"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-013",
+   "short": "Ley 13/2015, de 8 de abril",
+   "title": "Ley 13/2015, de 8 de abril, de Función Pública de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-5016",
+   "versions": [
+    {
+     "from": "2015-04-10",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5016",
+     "sha256": "c3c63497637328910b4b52e068185fee4a21f25a9e59181e004404a5357adb6a"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5016",
+     "sha256": "c3c63497637328910b4b52e068185fee4a21f25a9e59181e004404a5357adb6a"
+    },
+    {
+     "from": "2016-04-08",
+     "units": 6,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5016",
+     "sha256": "c3c63497637328910b4b52e068185fee4a21f25a9e59181e004404a5357adb6a"
+    },
+    {
+     "from": "2016-04-10",
+     "units": 184,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5016",
+     "sha256": "c3c63497637328910b4b52e068185fee4a21f25a9e59181e004404a5357adb6a"
+    },
+    {
+     "from": "2016-12-15",
+     "units": 186,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5016",
+     "sha256": "c3c63497637328910b4b52e068185fee4a21f25a9e59181e004404a5357adb6a"
+    },
+    {
+     "from": "2017-04-10",
+     "units": 187,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5016",
+     "sha256": "c3c63497637328910b4b52e068185fee4a21f25a9e59181e004404a5357adb6a"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 187,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5016",
+     "sha256": "c3c63497637328910b4b52e068185fee4a21f25a9e59181e004404a5357adb6a"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 188,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5016",
+     "sha256": "c3c63497637328910b4b52e068185fee4a21f25a9e59181e004404a5357adb6a"
+    },
+    {
+     "from": "2025-05-24",
+     "units": 188,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5016",
+     "sha256": "c3c63497637328910b4b52e068185fee4a21f25a9e59181e004404a5357adb6a"
+    },
+    {
+     "from": "2025-06-27",
+     "units": 188,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5016",
+     "sha256": "c3c63497637328910b4b52e068185fee4a21f25a9e59181e004404a5357adb6a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-014",
+   "short": "Ley 14/2015, de 9 de abril",
+   "title": "Ley 14/2015, de 9 de abril, de Servicios Sociales de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-5017",
+   "versions": [
+    {
+     "from": "2015-05-04",
+     "units": 93,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5017",
+     "sha256": "0258426b86cfc74549f922983fa272876babe6796f9bce463099ffd20d257c6e"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 93,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5017",
+     "sha256": "0258426b86cfc74549f922983fa272876babe6796f9bce463099ffd20d257c6e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-015",
+   "short": "Ley 15/2015, de 16 de abril",
+   "title": "Ley 15/2015, de 16 de abril, por la que se ordena el ejercicio de las profesiones del deporte en Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-5489",
+   "versions": [
+    {
+     "from": "2015-10-21",
+     "units": 40,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5489",
+     "sha256": "20ff266b847c5002810cb2138bf60e9c8f129d26959348e70d8fbc16f98b0584"
+    },
+    {
+     "from": "2016-12-15",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5489",
+     "sha256": "20ff266b847c5002810cb2138bf60e9c8f129d26959348e70d8fbc16f98b0584"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-016",
+   "short": "Ley 16/2015, de 23 de abril",
+   "title": "Ley 16/2015, de 23 de abril, de protección ambiental de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-5490",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 173,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5490",
+     "sha256": "6c76266b388dba0fffc8284ae89de62c2d8c59178cc2f7f9ad07b55700f34c1e"
+    },
+    {
+     "from": "2018-05-16",
+     "units": 173,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5490",
+     "sha256": "6c76266b388dba0fffc8284ae89de62c2d8c59178cc2f7f9ad07b55700f34c1e"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 174,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5490",
+     "sha256": "6c76266b388dba0fffc8284ae89de62c2d8c59178cc2f7f9ad07b55700f34c1e"
+    },
+    {
+     "from": "2021-03-09",
+     "units": 174,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5490",
+     "sha256": "6c76266b388dba0fffc8284ae89de62c2d8c59178cc2f7f9ad07b55700f34c1e"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 174,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5490",
+     "sha256": "6c76266b388dba0fffc8284ae89de62c2d8c59178cc2f7f9ad07b55700f34c1e"
+    },
+    {
+     "from": "2025-09-23",
+     "units": 174,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-5490",
+     "sha256": "6c76266b388dba0fffc8284ae89de62c2d8c59178cc2f7f9ad07b55700f34c1e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-018",
+   "short": "Ley 18/2015, de 23 de diciembre",
+   "title": "Ley 18/2015, de 23 de diciembre, de cuentas abiertas para la Administración Pública Extremeña.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-730",
+   "versions": [
+    {
+     "from": "2015-12-30",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-730",
+     "sha256": "1facc9c5eaf99db8559e0022124055667f106f306d121c9c115e112dd9036df4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-019",
+   "short": "Ley 19/2015, de 23 de diciembre",
+   "title": "Ley 19/2015, de 23 de diciembre, por la que se deroga la Ley 16/2001, de 14 de diciembre, reguladora del Consejo Consultivo de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-731",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-731",
+     "sha256": "09ed23f1fddb846fb161717f38a2e701c143848317ad4f4dac0c2eeaf9c75fa2"
+    },
+    {
+     "from": "2016-06-29",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-731",
+     "sha256": "09ed23f1fddb846fb161717f38a2e701c143848317ad4f4dac0c2eeaf9c75fa2"
+    },
+    {
+     "from": "2021-05-26",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-731",
+     "sha256": "09ed23f1fddb846fb161717f38a2e701c143848317ad4f4dac0c2eeaf9c75fa2"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2016-001",
+   "short": "Decreto-ley 1/2016, de 10 de mayo",
+   "title": "Decreto-ley 1/2016, de 10 de mayo, de medidas extraordinarias contra la exclusión social.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-5904",
+   "versions": [
+    {
+     "from": "2016-05-11",
+     "units": 26,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-5904",
+     "sha256": "c9d5ff377b9442e5d0c2eae4d372f0769abcea8c34b6f511077e3c8d246422cc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2016-007",
+   "short": "Ley 7/2016, de 21 de julio",
+   "title": "Ley 7/2016, de 21 de julio, de medidas extraordinarias contra la exclusión social.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-7692",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7692",
+     "sha256": "c97ec75392525b9bb0e9c7f6ba9f09fe13487439044f282b49ac39543fc3ab00"
+    },
+    {
+     "from": "2017-03-14",
+     "units": 32,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7692",
+     "sha256": "c97ec75392525b9bb0e9c7f6ba9f09fe13487439044f282b49ac39543fc3ab00"
+    },
+    {
+     "from": "2018-02-07",
+     "units": 32,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7692",
+     "sha256": "c97ec75392525b9bb0e9c7f6ba9f09fe13487439044f282b49ac39543fc3ab00"
+    },
+    {
+     "from": "2019-06-26",
+     "units": 32,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7692",
+     "sha256": "c97ec75392525b9bb0e9c7f6ba9f09fe13487439044f282b49ac39543fc3ab00"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2017-002",
+   "short": "Ley 2/2017, de 17 de febrero",
+   "title": "Ley 2/2017, de 17 de febrero, de emergencia social de la vivienda de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-3067",
+   "versions": [
+    {
+     "from": "2017-03-14",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-3067",
+     "sha256": "03a8f830fe5e4ab9e29094f11caa78f4fb3742ecc434dba4a54e3dbae3552e43"
+    },
+    {
+     "from": "2017-12-21",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-3067",
+     "sha256": "03a8f830fe5e4ab9e29094f11caa78f4fb3742ecc434dba4a54e3dbae3552e43"
+    },
+    {
+     "from": "2018-03-28",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-3067",
+     "sha256": "03a8f830fe5e4ab9e29094f11caa78f4fb3742ecc434dba4a54e3dbae3552e43"
+    },
+    {
+     "from": "2018-05-24",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-3067",
+     "sha256": "03a8f830fe5e4ab9e29094f11caa78f4fb3742ecc434dba4a54e3dbae3552e43"
+    },
+    {
+     "from": "2018-11-01",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-3067",
+     "sha256": "03a8f830fe5e4ab9e29094f11caa78f4fb3742ecc434dba4a54e3dbae3552e43"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-3067",
+     "sha256": "03a8f830fe5e4ab9e29094f11caa78f4fb3742ecc434dba4a54e3dbae3552e43"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2017-006",
+   "short": "Ley 6/2017, de 10 de julio",
+   "title": "Ley 6/2017, de 10 de julio, del Plan de Estadística de Extremadura 2017-2020.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-8842",
+   "versions": [
+    {
+     "from": "2017-07-12",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-8842",
+     "sha256": "ff90369fcc7b84b2f3b9b35bdd1a02107423f6fe6cc6abb345408adaac7d7456"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2017-007",
+   "short": "Ley 7/2017, de 1 de agosto",
+   "title": "Ley 7/2017, de 1 de agosto, de Coordinación de Policías Locales de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-10455",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-10455",
+     "sha256": "f616cdc29d1ddc8a7c2ad02929134b3b26362a99001b6f8c247dc9ab39da11ca"
+    },
+    {
+     "from": "2019-10-18",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-10455",
+     "sha256": "f616cdc29d1ddc8a7c2ad02929134b3b26362a99001b6f8c247dc9ab39da11ca"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-002",
+   "short": "Ley 2/2018, de 14 de febrero",
+   "title": "Ley 2/2018, de 14 de febrero, de coordinación intersectorial y de simplificación de los procedimientos urbanísticos y de ordenación del territorio de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-3001",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-3001",
+     "sha256": "0e56716d5c2170c44d0797f61577860fbc3d91fcbd7ff7e45c57249d32485d43"
+    },
+    {
+     "from": "2025-05-24",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-3001",
+     "sha256": "0e56716d5c2170c44d0797f61577860fbc3d91fcbd7ff7e45c57249d32485d43"
+    },
+    {
+     "from": "2025-06-26",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-3001",
+     "sha256": "0e56716d5c2170c44d0797f61577860fbc3d91fcbd7ff7e45c57249d32485d43"
+    },
+    {
+     "from": "2026-08-05",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-3001",
+     "sha256": "0e56716d5c2170c44d0797f61577860fbc3d91fcbd7ff7e45c57249d32485d43"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-003",
+   "short": "Ley 3/2018, de 21 de febrero",
+   "title": "Ley 3/2018, de 21 de febrero, de Cámaras Oficiales de Comercio, Industria y Servicios de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-3361",
+   "versions": [
+    {
+     "from": "2018-02-24",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-3361",
+     "sha256": "6e57af6513367b3a63622dee650ec093b121ee37987edf80650408bb4cb3f51c"
+    },
+    {
+     "from": "2021-06-16",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-3361",
+     "sha256": "6e57af6513367b3a63622dee650ec093b121ee37987edf80650408bb4cb3f51c"
+    },
+    {
+     "from": "2022-03-12",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-3361",
+     "sha256": "6e57af6513367b3a63622dee650ec093b121ee37987edf80650408bb4cb3f51c"
+    },
+    {
+     "from": "2026-08-05",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-3361",
+     "sha256": "6e57af6513367b3a63622dee650ec093b121ee37987edf80650408bb4cb3f51c"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2018-001",
+   "short": "Decreto Legislativo 1/2018, de 10 de abril",
+   "title": "Decreto Legislativo 1/2018, de 10 de abril, por el que se aprueba el texto refundido de las disposiciones legales de la Comunidad Autónoma de Extremadura en materia de tributos cedidos por el Estado.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-8159",
+   "versions": [
+    {
+     "from": "2018-05-24",
+     "units": 111,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 111,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    },
+    {
+     "from": "2020-02-23",
+     "units": 111,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    },
+    {
+     "from": "2020-06-02",
+     "units": 111,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 111,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 111,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    },
+    {
+     "from": "2022-03-22",
+     "units": 118,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    },
+    {
+     "from": "2022-05-17",
+     "units": 118,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 120,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    },
+    {
+     "from": "2022-12-01",
+     "units": 120,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    },
+    {
+     "from": "2023-09-15",
+     "units": 121,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 121,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 121,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    },
+    {
+     "from": "2024-10-26",
+     "units": 124,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    },
+    {
+     "from": "2024-11-26",
+     "units": 124,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    },
+    {
+     "from": "2025-01-29",
+     "units": 132,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    },
+    {
+     "from": "2025-04-08",
+     "units": 132,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    },
+    {
+     "from": "2026-08-05",
+     "units": 135,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-8159",
+     "sha256": "39f3cc6901a1aa54a02af04956e1f2d34d48427796e8faf5013a9de2aec24384"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-005",
+   "short": "Ley 5/2018, de 3 de mayo",
+   "title": "Ley 5/2018, de 3 de mayo, de prevención del consumo de bebidas alcohólicas en la infancia y la adolescencia.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-6941",
+   "versions": [
+    {
+     "from": "2018-11-08",
+     "units": 59,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-6941",
+     "sha256": "3caf29620a4f2e20944fcdc1c6a8b3d7abf3afbffe76b49a5e7068e4802bbf05"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-007",
+   "short": "Ley 7/2018, de 2 de agosto",
+   "title": "Ley 7/2018, de 2 de agosto, extremeña de grandes instalaciones de ocio (LEGIO).",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-11905",
+   "versions": [
+    {
+     "from": "2018-08-06",
+     "units": 2,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-11905",
+     "sha256": "92fb32012a792e46ff4d514d8b77fbca4fdf1c5f18c63f314ce02d197058daa1"
+    },
+    {
+     "from": "2018-08-07",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-11905",
+     "sha256": "92fb32012a792e46ff4d514d8b77fbca4fdf1c5f18c63f314ce02d197058daa1"
+    },
+    {
+     "from": "2020-05-25",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-11905",
+     "sha256": "92fb32012a792e46ff4d514d8b77fbca4fdf1c5f18c63f314ce02d197058daa1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-008",
+   "short": "Ley 8/2018, de 23 de octubre",
+   "title": "Ley 8/2018, de 23 de octubre, del comercio ambulante de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16344",
+   "versions": [
+    {
+     "from": "2018-10-27",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16344",
+     "sha256": "8720942dd77b408cad4285b6a848c7b698d84fa3099a1b2681be27f208538dbc"
+    },
+    {
+     "from": "2021-06-09",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16344",
+     "sha256": "8720942dd77b408cad4285b6a848c7b698d84fa3099a1b2681be27f208538dbc"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16344",
+     "sha256": "8720942dd77b408cad4285b6a848c7b698d84fa3099a1b2681be27f208538dbc"
+    },
+    {
+     "from": "2026-08-05",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16344",
+     "sha256": "8720942dd77b408cad4285b6a848c7b698d84fa3099a1b2681be27f208538dbc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-009",
+   "short": "Ley 9/2018, de 30 de octubre",
+   "title": "Ley 9/2018, de 30 de octubre, de sociedades cooperativas de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16345",
+   "versions": [
+    {
+     "from": "2018-11-03",
+     "units": 1,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16345",
+     "sha256": "efd7efdc94e99b90140d466047ae68ad4e6bb1a5f8d1ba52f501edd7acfcfa0d"
+    },
+    {
+     "from": "2019-01-02",
+     "units": 218,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16345",
+     "sha256": "efd7efdc94e99b90140d466047ae68ad4e6bb1a5f8d1ba52f501edd7acfcfa0d"
+    },
+    {
+     "from": "2020-05-12",
+     "units": 218,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16345",
+     "sha256": "efd7efdc94e99b90140d466047ae68ad4e6bb1a5f8d1ba52f501edd7acfcfa0d"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 218,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16345",
+     "sha256": "efd7efdc94e99b90140d466047ae68ad4e6bb1a5f8d1ba52f501edd7acfcfa0d"
+    },
+    {
+     "from": "2024-06-05",
+     "units": 218,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16345",
+     "sha256": "efd7efdc94e99b90140d466047ae68ad4e6bb1a5f8d1ba52f501edd7acfcfa0d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-010",
+   "short": "Ley 10/2018, de 22 de noviembre",
+   "title": "Ley 10/2018, de 22 de noviembre, del Tercer Sector Social de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-17221",
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 27,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-17221",
+     "sha256": "f350cb17462daa187c26c1a62ff23b81c7e0b662fb9dd6adcb588530c8f63125"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2018-002",
+   "short": "Decreto-ley 2/2018, de 11 de diciembre",
+   "title": "Decreto-ley 2/2018, de 11 de diciembre, de medidas urgentes para el restablecimiento de los derechos del personal al servicio de la Administración de la Junta de Extremadura en las situaciones de incapacidad temporal, y por el que se extienden las mejoras voluntarias de la acción protectora de la Seguridad Social a las situaciones de maternidad, paternidad, riesgo durante el embarazo y riesgo durante la lactancia.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-1794",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1794",
+     "sha256": "ed0f576edef565c00b3108464fc3bdc68ad201dfa9407d80ecd366cdcc5a3cc7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-011",
+   "short": "Ley 11/2018, de 21 de diciembre",
+   "title": "Ley 11/2018, de 21 de diciembre, de ordenación territorial y urbanística sostenible de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-1790",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 219,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1790",
+     "sha256": "e5698c561fcefa6ab1df3fdd8f27b4d25fa90c113b2e6f9e2fe08baedc059bd3"
+    },
+    {
+     "from": "2020-05-25",
+     "units": 220,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1790",
+     "sha256": "e5698c561fcefa6ab1df3fdd8f27b4d25fa90c113b2e6f9e2fe08baedc059bd3"
+    },
+    {
+     "from": "2022-03-22",
+     "units": 220,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1790",
+     "sha256": "e5698c561fcefa6ab1df3fdd8f27b4d25fa90c113b2e6f9e2fe08baedc059bd3"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 221,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1790",
+     "sha256": "e5698c561fcefa6ab1df3fdd8f27b4d25fa90c113b2e6f9e2fe08baedc059bd3"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 221,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1790",
+     "sha256": "e5698c561fcefa6ab1df3fdd8f27b4d25fa90c113b2e6f9e2fe08baedc059bd3"
+    },
+    {
+     "from": "2025-05-24",
+     "units": 242,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1790",
+     "sha256": "e5698c561fcefa6ab1df3fdd8f27b4d25fa90c113b2e6f9e2fe08baedc059bd3"
+    },
+    {
+     "from": "2025-06-26",
+     "units": 242,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1790",
+     "sha256": "e5698c561fcefa6ab1df3fdd8f27b4d25fa90c113b2e6f9e2fe08baedc059bd3"
+    },
+    {
+     "from": "2025-09-23",
+     "units": 242,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1790",
+     "sha256": "e5698c561fcefa6ab1df3fdd8f27b4d25fa90c113b2e6f9e2fe08baedc059bd3"
+    },
+    {
+     "from": "2026-08-05",
+     "units": 260,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1790",
+     "sha256": "e5698c561fcefa6ab1df3fdd8f27b4d25fa90c113b2e6f9e2fe08baedc059bd3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-012",
+   "short": "Ley 12/2018, de 26 de diciembre",
+   "title": "Ley 12/2018, de 26 de diciembre, de contratación pública socialmente responsable de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-1791",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 59,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1791",
+     "sha256": "547bceae3014ab6eea29ee74289b1c28d710b6179543dc1c00b68e0efe8fae74"
+    },
+    {
+     "from": "2020-06-20",
+     "units": 59,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1791",
+     "sha256": "547bceae3014ab6eea29ee74289b1c28d710b6179543dc1c00b68e0efe8fae74"
+    },
+    {
+     "from": "2021-03-09",
+     "units": 60,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1791",
+     "sha256": "547bceae3014ab6eea29ee74289b1c28d710b6179543dc1c00b68e0efe8fae74"
+    },
+    {
+     "from": "2022-03-08",
+     "units": 61,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1791",
+     "sha256": "547bceae3014ab6eea29ee74289b1c28d710b6179543dc1c00b68e0efe8fae74"
+    },
+    {
+     "from": "2022-05-17",
+     "units": 61,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1791",
+     "sha256": "547bceae3014ab6eea29ee74289b1c28d710b6179543dc1c00b68e0efe8fae74"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 61,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1791",
+     "sha256": "547bceae3014ab6eea29ee74289b1c28d710b6179543dc1c00b68e0efe8fae74"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-013",
+   "short": "Ley 13/2018, de 26 de diciembre",
+   "title": "Ley 13/2018, de 26 de diciembre, de conciertos sociales para la prestación de servicios a las personas en los ámbitos social, sanitario y sociosanitario en Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-1792",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1792",
+     "sha256": "4019d17e7fbd5683db783f730553b6df231deead5a0486f68e915b32657c2491"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1792",
+     "sha256": "4019d17e7fbd5683db783f730553b6df231deead5a0486f68e915b32657c2491"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-001",
+   "short": "Ley 1/2019, de 21 de enero",
+   "title": "Ley 1/2019, de 21 de enero, de memoria histórica y democrática de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-1936",
+   "versions": [
+    {
+     "from": "2019-07-24",
+     "units": 69,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1936",
+     "sha256": "e7836991de7ca3a12c9afd6e680ca53d3690a039b31912edea7c81d0c1e036fe"
+    },
+    {
+     "from": "2025-10-18",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1936",
+     "sha256": "e7836991de7ca3a12c9afd6e680ca53d3690a039b31912edea7c81d0c1e036fe"
+    },
+    {
+     "from": "2026-09-21",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1936",
+     "sha256": "e7836991de7ca3a12c9afd6e680ca53d3690a039b31912edea7c81d0c1e036fe"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-003",
+   "short": "Ley 3/2019, de 22 de enero",
+   "title": "Ley 3/2019, de 22 de enero, de garantía de la autonomía municipal de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-1938",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1938",
+     "sha256": "085527f50719d69c3304a96cc5b0c97fdb12c91f87b3b4d803a8777b5dc5a28f"
+    },
+    {
+     "from": "2021-03-09",
+     "units": 66,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1938",
+     "sha256": "085527f50719d69c3304a96cc5b0c97fdb12c91f87b3b4d803a8777b5dc5a28f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-004",
+   "short": "Ley 4/2019, de 18 de febrero",
+   "title": "Ley 4/2019, de 18 de febrero, de mejora de la eficiencia energética y las condiciones térmicas y ambientales de los centros educativos extremeños.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-3490",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 14,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-3490",
+     "sha256": "22ffb491cbd80bc58f3fca9d13613ed1d8724989981248effdd0eed1effd76e6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-005",
+   "short": "Ley 5/2019, de 20 de febrero",
+   "title": "Ley 5/2019, de 20 de febrero, de Renta Extremeña Garantizada.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-3491",
+   "versions": [
+    {
+     "from": "2019-06-26",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-3491",
+     "sha256": "26d174bf6d4eb361e2b2a11960f11da87e3e3b19fa0766765eb231ca63242acb"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-3491",
+     "sha256": "26d174bf6d4eb361e2b2a11960f11da87e3e3b19fa0766765eb231ca63242acb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-006",
+   "short": "Ley 6/2019, de 20 de febrero",
+   "title": "Ley 6/2019, de 20 de febrero, del Estatuto de las personas consumidoras de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-3492",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 91,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-3492",
+     "sha256": "b3e51025aa44a11b2605dcc216f3b0b2e545898309ace30fcb735e5bf986b828"
+    },
+    {
+     "from": "2021-04-23",
+     "units": 91,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-3492",
+     "sha256": "b3e51025aa44a11b2605dcc216f3b0b2e545898309ace30fcb735e5bf986b828"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 92,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-3492",
+     "sha256": "b3e51025aa44a11b2605dcc216f3b0b2e545898309ace30fcb735e5bf986b828"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-007",
+   "short": "Ley 7/2019, de 5 de abril",
+   "title": "Ley 7/2019, de 5 de abril, de espectáculos públicos y actividades recreativas de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7220",
+   "versions": [
+    {
+     "from": "2019-04-10",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-7220",
+     "sha256": "b4c674c476ee1b142c1d38af0b80da2714537c60ab3ecc516c8c925b79577e51"
+    },
+    {
+     "from": "2020-05-13",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-7220",
+     "sha256": "b4c674c476ee1b142c1d38af0b80da2714537c60ab3ecc516c8c925b79577e51"
+    },
+    {
+     "from": "2020-06-20",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-7220",
+     "sha256": "b4c674c476ee1b142c1d38af0b80da2714537c60ab3ecc516c8c925b79577e51"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-7220",
+     "sha256": "b4c674c476ee1b142c1d38af0b80da2714537c60ab3ecc516c8c925b79577e51"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-008",
+   "short": "Ley 8/2019, de 5 de abril",
+   "title": "Ley 8/2019, de 5 de abril, para una Administración más ágil en la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7221",
+   "versions": [
+    {
+     "from": "2019-05-09",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-7221",
+     "sha256": "fe95a477e1eb75f50f3cec0f33eed837bf8e919edd5027f33f66c8c167223c94"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-7221",
+     "sha256": "fe95a477e1eb75f50f3cec0f33eed837bf8e919edd5027f33f66c8c167223c94"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-010",
+   "short": "Ley 10/2019, de 11 de abril",
+   "title": "Ley 10/2019, de 11 de abril, de protección civil y de gestión de emergencias de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7223",
+   "versions": [
+    {
+     "from": "2019-10-18",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-7223",
+     "sha256": "39ce58aba4cf450a7a6f0d159f8d91c6580c8cf2dfde785a5c518ef8d2cdb162"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-7223",
+     "sha256": "39ce58aba4cf450a7a6f0d159f8d91c6580c8cf2dfde785a5c518ef8d2cdb162"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-011",
+   "short": "Ley 11/2019, de 11 de abril",
+   "title": "Ley 11/2019, de 11 de abril, de promoción y acceso a la vivienda de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7224",
+   "versions": [
+    {
+     "from": "2019-05-07",
+     "units": 149,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-7224",
+     "sha256": "527ce32944903682d2adc38ee93e53dd97c6f9a57dbbe212fee50400970fc7f9"
+    },
+    {
+     "from": "2020-05-25",
+     "units": 149,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-7224",
+     "sha256": "527ce32944903682d2adc38ee93e53dd97c6f9a57dbbe212fee50400970fc7f9"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 156,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-7224",
+     "sha256": "527ce32944903682d2adc38ee93e53dd97c6f9a57dbbe212fee50400970fc7f9"
+    },
+    {
+     "from": "2023-09-15",
+     "units": 157,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-7224",
+     "sha256": "527ce32944903682d2adc38ee93e53dd97c6f9a57dbbe212fee50400970fc7f9"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 175,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-7224",
+     "sha256": "527ce32944903682d2adc38ee93e53dd97c6f9a57dbbe212fee50400970fc7f9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-012",
+   "short": "Ley 12/2019, de 11 de octubre",
+   "title": "Ley 12/2019, de 11 de octubre, del Voluntariado de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-15519",
+   "versions": [
+    {
+     "from": "2019-10-16",
+     "units": 58,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-15519",
+     "sha256": "63c1f424a7d3ec8f1943e2355e1528265decf957b6b3e20a5de822bd79c2e838"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2020-002",
+   "short": "Ley 2/2020, de 4 de marzo",
+   "title": "Ley 2/2020, de 4 de marzo, de apoyo, asistencia y reconocimiento a las víctimas de terrorismo de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-5710",
+   "versions": [
+    {
+     "from": "2020-03-10",
+     "units": 59,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-5710",
+     "sha256": "d27f8a2b2e69f480a62c320036c41b7b66d3727d3245e804acc1d43621d59e3c"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 61,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-5710",
+     "sha256": "d27f8a2b2e69f480a62c320036c41b7b66d3727d3245e804acc1d43621d59e3c"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2020-001",
+   "short": "Decreto-ley 1/2020, de 18 de marzo",
+   "title": "Decreto-ley 1/2020, de 18 de marzo, por el que se establecen medidas liberalizadoras de los horarios de apertura de las actividades comerciales habilitadas por el Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionado por el COVID-19.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4556",
+   "versions": [
+    {
+     "from": "2020-03-21",
+     "units": 4,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-4556",
+     "sha256": "13066693fccb900f59cf676400ff904964df5fe2bdba87d9dca0f4f569a8e1ac"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2020-002",
+   "short": "Decreto-ley 2/2020, de 25 de marzo",
+   "title": "Decreto-ley 2/2020, de 25 de marzo, de medidas urgentes de carácter tributario para paliar los efectos del COVID-19 en la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4557",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-4557",
+     "sha256": "b3947ba5137079cc7819e79b3617948de8fb525418ccb39964c52b4485d7d31f"
+    },
+    {
+     "from": "2020-06-02",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-4557",
+     "sha256": "b3947ba5137079cc7819e79b3617948de8fb525418ccb39964c52b4485d7d31f"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2020-003",
+   "short": "Decreto-ley 3/2020, de 25 de marzo",
+   "title": "Decreto-ley 3/2020, de 25 de marzo, por el que se aprueban medidas urgentes y extraordinarias en el ámbito administrativo para responder al impacto de la crisis ocasionada por el COVID-19.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4558",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 14,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-4558",
+     "sha256": "fca12f3d0cbb171ac659f96665c983c43a1c414ba012e5a53141527996861abf"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2020-004",
+   "short": "Decreto-ley 4/2020, de 1 de abril",
+   "title": "Decreto-ley 4/2020, de 1 de abril, por el que se adoptan medidas urgentes y extraordinarias en el ámbito de la contratación pública para responder al impacto de la crisis ocasionada por el COVID-19.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4559",
+   "versions": [
+    {
+     "from": "2020-04-02",
+     "units": 8,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-4559",
+     "sha256": "e8c41fbf2bff6ae2db4afe4e39fc477b378b6e2e19d7821456936d9d2ea02ab2"
+    },
+    {
+     "from": "2020-04-27",
+     "units": 8,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-4559",
+     "sha256": "e8c41fbf2bff6ae2db4afe4e39fc477b378b6e2e19d7821456936d9d2ea02ab2"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2020-005",
+   "short": "Decreto-ley 5/2020, de 3 de abril",
+   "title": "Decreto-ley 5/2020, de 3 de abril, por el que se aprueban medidas urgentes y extraordinarias en materia de política social y sanitaria.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4560",
+   "versions": [
+    {
+     "from": "2020-04-06",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-4560",
+     "sha256": "f2126e5bb4850e2d26840150583f61372a830704916fc4c9a8b7932669cfe970"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-4560",
+     "sha256": "f2126e5bb4850e2d26840150583f61372a830704916fc4c9a8b7932669cfe970"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2020-006",
+   "short": "Decreto-ley 6/2020, de 17 de abril",
+   "title": "Decreto-ley 6/2020, de 17 de abril, de medidas extraordinarias y urgentes para la tramitación de las bases reguladoras y normativa específica de subvenciones, la ejecución de determinadas prestaciones de contratos administrativos y la selección de personal temporal mediante bolsas de trabajo, como consecuencia de la crisis ocasionada por el COVID-19.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4691",
+   "versions": [
+    {
+     "from": "2020-04-20",
+     "units": 8,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-4691",
+     "sha256": "f9d01366d03487142f9298f266beedf8bc83eafb4d68a707c6bd4bafdf08150d"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2020-007",
+   "short": "Decreto-ley 7/2020, de 24 de abril",
+   "title": "Decreto-ley 7/2020, de 24 de abril, por el que se aprueban medidas urgentes en materia de educación, para paliar los efectos de la emergencia sanitaria provocada por el COVID-19.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-5249",
+   "versions": [
+    {
+     "from": "2020-04-27",
+     "units": 15,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-5249",
+     "sha256": "fcf2831cfc9fbae15cca95f6eecae04853f72fe347417c5f3e35221e95eb21f5"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 15,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-5249",
+     "sha256": "fcf2831cfc9fbae15cca95f6eecae04853f72fe347417c5f3e35221e95eb21f5"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2020-008",
+   "short": "Decreto-ley 8/2020, de 24 de abril",
+   "title": "Decreto-ley 8/2020, de 24 de abril, por el que se adoptan medidas urgentes y extraordinarias para el mantenimiento y recuperación del empleo frente a la crisis ocasionada por el COVID-19.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-5250",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 122,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-5250",
+     "sha256": "fcba28eff575e605aa68816814db6f87b6a0ef49fd9ebb5fa0e9006b2d854056"
+    },
+    {
+     "from": "2020-06-02",
+     "units": 122,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-5250",
+     "sha256": "fcba28eff575e605aa68816814db6f87b6a0ef49fd9ebb5fa0e9006b2d854056"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2020-009",
+   "short": "Decreto-ley 9/2020, de 8 de mayo",
+   "title": "Decreto-ley 9/2020, de 8 de mayo, por el que se aprueba una subvención para refuerzo del sistema de garantías de Extremadura, se establecen ayudas financieras a autónomos y empresas, y se adoptan medidas en materia de espectáculos públicos y actividades recreativas y de patrimonio histórico y cultural, para afrontar los efectos negativos del COVID-19.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-7440",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-7440",
+     "sha256": "af2d8e0302deefbe89982c7f038605154dc2ea088adb7ce6bb3de6ae9fa39054"
+    },
+    {
+     "from": "2020-12-31",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-7440",
+     "sha256": "af2d8e0302deefbe89982c7f038605154dc2ea088adb7ce6bb3de6ae9fa39054"
+    },
+    {
+     "from": "2021-06-16",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-7440",
+     "sha256": "af2d8e0302deefbe89982c7f038605154dc2ea088adb7ce6bb3de6ae9fa39054"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2020-010",
+   "short": "Decreto-ley 10/2020, de 22 de mayo",
+   "title": "Decreto-ley 10/2020, de 22 de mayo, de medidas urgentes para la reactivación económica en materia de edificación y ordenación del territorio destinadas a dinamizar el tejido económico y social de Extremadura, para afrontar los efectos negativos de la COVID-19.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-7441",
+   "versions": [
+    {
+     "from": "2020-05-25",
+     "units": 8,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-7441",
+     "sha256": "3823b7aa05e1b6cd3ef1eced59259562530940c4cf4adbc43157fe8780e25141"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2020-011",
+   "short": "Decreto-ley 11/2020, de 29 de mayo",
+   "title": "Decreto-ley 11/2020, de 29 de mayo, de medidas urgentes complementarias en materia tributaria para responder al impacto económico del COVID-19 en la Comunidad Autónoma de Extremadura y otras medidas adicionales.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-7442",
+   "versions": [
+    {
+     "from": "2020-06-02",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-7442",
+     "sha256": "e9de9204db6933b0f40d3fd4985c1343088bc6d9d0e9c2e8ca8b1dd2421161a1"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2020-012",
+   "short": "Decreto-ley 12/2020, de 19 de junio",
+   "title": "Decreto-ley 12/2020, de 19 de junio, de medidas extraordinarias y urgentes para la reactivación de la actividad económica y social en la Comunidad Autónoma de Extremadura en el proceso hacia la \"Nueva Normalidad\".",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-8303",
+   "versions": [
+    {
+     "from": "2020-06-20",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-8303",
+     "sha256": "b01341e24cc122c67d82db58b489606f7b6c8cad7362596300454624fbb99bbe"
+    },
+    {
+     "from": "2020-07-28",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-8303",
+     "sha256": "b01341e24cc122c67d82db58b489606f7b6c8cad7362596300454624fbb99bbe"
+    },
+    {
+     "from": "2021-06-09",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-8303",
+     "sha256": "b01341e24cc122c67d82db58b489606f7b6c8cad7362596300454624fbb99bbe"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-8303",
+     "sha256": "b01341e24cc122c67d82db58b489606f7b6c8cad7362596300454624fbb99bbe"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2020-014",
+   "short": "Decreto-ley 14/2020, de 22 de julio",
+   "title": "Decreto-ley 14/2020, de 22 de julio, de medidas para la activación de la demanda en la Comunidad Autónoma de Extremadura tras la crisis sanitaria.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-9744",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 51,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-9744",
+     "sha256": "ae3369a41042fc0ba4d388be3205950d0d3948c91036940a30e8959a3d453852"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2020-003",
+   "short": "Ley 3/2020, de 29 de octubre",
+   "title": "Ley 3/2020, de 29 de octubre, del sistema de préstamo de los libros de texto de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-14051",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-14051",
+     "sha256": "8472a2bf159736034d5007037e3d6027156913f1e941b7a07b6710aad73cb756"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2020-005",
+   "short": "Ley 5/2020, de 1 de diciembre",
+   "title": "Ley 5/2020, de 1 de diciembre, de Instituciones Museísticas de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-16421",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 63,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-16421",
+     "sha256": "0d07b1b5f52c80f4f3c3a9c50f08be37e94eac0af4b7eb55f95ad8d8f577a3b9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2020-006",
+   "short": "Ley 6/2020, de 1 de diciembre",
+   "title": "Ley 6/2020, de 1 de diciembre, de Artes Escénicas de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-16422",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 44,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-16422",
+     "sha256": "7dbc5248498076bce6582083db6edf278e9daee34f2890350f1af4b1aaee3d91"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2021-003",
+   "short": "Decreto-ley 3/2021, de 3 de marzo",
+   "title": "Decreto-ley 3/2021, de 3 de marzo, de medidas urgentes para la modernización de la Administración Pública y para la ejecución del Plan de Recuperación, Transformación y Resiliencia.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-13834",
+   "versions": [
+    {
+     "from": "2021-03-09",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-13834",
+     "sha256": "8ff0759d0e1f645d91fbfd27c6c97d4f994384a3f9378b70cede06cc0581d555"
+    },
+    {
+     "from": "2022-04-07",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-13834",
+     "sha256": "8ff0759d0e1f645d91fbfd27c6c97d4f994384a3f9378b70cede06cc0581d555"
+    },
+    {
+     "from": "2024-06-05",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-13834",
+     "sha256": "8ff0759d0e1f645d91fbfd27c6c97d4f994384a3f9378b70cede06cc0581d555"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2021-002",
+   "short": "Ley 2/2021, de 21 de mayo",
+   "title": "Ley 2/2021, de 21 de mayo, de defensa, asistencia jurídica y comparecencia en juicio de la administración de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-10592",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-10592",
+     "sha256": "84fb13a13b05d810743dfd46c3f99d082b9842f9daddec08a8251f4f16c17642"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2021-004",
+   "short": "Decreto-ley 4/2021, de 4 de junio",
+   "title": "Decreto-ley 4/2021, de 4 de junio, por el que se adoptan medidas de extraordinaria y urgente necesidad orientadas a establecer la prestación a la demanda y garantizar el equilibrio económico de los servicios de transporte público regular de uso general de viajeros por carretera sometidos a obligaciones de servicio público, en el contexto actual de crisis sanitaria y sus efectos en el ámbito de la movilidad de las personas, así como a impulsar la autonomía local en materia de comercio ambulante.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-12406",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-12406",
+     "sha256": "08edff63440b9d780da4e9693744c869a6c7d86ccf32171d8569218afee718b7"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2021-005",
+   "short": "Decreto-ley 5/2021, de 9 de junio",
+   "title": "Decreto-ley 5/2021, de 9 de junio, por el que se regulan y establecen ayudas directas a autónomos y empresas, financiadas por el Gobierno de España; se establecen las bases reguladoras de ayudas urgentes en el marco del desarrollo del plan corresponsables; se modifica el Decreto-ley 9/2020, de 8 de mayo, por el que se aprueba una subvención para refuerzo del sistema de garantías de Extremadura, se establecen ayudas financieras a autónomos y empresas, y se adoptan medidas en materia de espectáculos públicos y actividades recreativas y de patrimonio histórico y cultural, para afrontar los efectos negativos del COVID-19 y se modifica la Ley 3/2018, de 21 de febrero, de Cámaras Oficiales de Comercio, Industria y Servicios de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-13902",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 51,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-13902",
+     "sha256": "e35fbe5fe165b58a540b39ab78ffb871ea759588830d0aee118958b906955266"
+    },
+    {
+     "from": "2021-09-27",
+     "units": 51,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-13902",
+     "sha256": "e35fbe5fe165b58a540b39ab78ffb871ea759588830d0aee118958b906955266"
+    },
+    {
+     "from": "2022-03-12",
+     "units": 51,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-13902",
+     "sha256": "e35fbe5fe165b58a540b39ab78ffb871ea759588830d0aee118958b906955266"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2022-001",
+   "short": "Decreto-ley 1/2022, de 2 de marzo",
+   "title": "Decreto-ley 1/2022, de 2 de marzo, de medidas urgentes de mejora de la calidad en la contratación pública para la reactivación económica.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-6453",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 2,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-6453",
+     "sha256": "0fcbfc6dd7567504d6953c657a62bffe66b20ea665263cb08f1f441137979fa4"
+    },
+    {
+     "from": "2022-04-07",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-6453",
+     "sha256": "0fcbfc6dd7567504d6953c657a62bffe66b20ea665263cb08f1f441137979fa4"
+    },
+    {
+     "from": "2022-05-17",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-6453",
+     "sha256": "0fcbfc6dd7567504d6953c657a62bffe66b20ea665263cb08f1f441137979fa4"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-6453",
+     "sha256": "0fcbfc6dd7567504d6953c657a62bffe66b20ea665263cb08f1f441137979fa4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-003",
+   "short": "Ley 3/2022, de 17 de marzo",
+   "title": "Ley 3/2022, de 17 de marzo, de medidas ante el reto demográfico y territorial de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-5853",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 115,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-5853",
+     "sha256": "581554c7f56aec3192e2fc33fabafba3afeb54255484dd7e66d5e32167c670c6"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 115,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-5853",
+     "sha256": "581554c7f56aec3192e2fc33fabafba3afeb54255484dd7e66d5e32167c670c6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-002",
+   "short": "Ley 2/2022, de 1 de abril",
+   "title": "Ley 2/2022, de 1 de abril, de bibliotecas de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-5854",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 47,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-5854",
+     "sha256": "7f85310c5373b4f9af0013bf433dd60abc55edf60373fb318db0cbad7d94ea95"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2022-002",
+   "short": "Decreto-ley 2/2022, de 4 de mayo",
+   "title": "Decreto-ley 2/2022, de 4 de mayo, por el que se regula la actuación de la Junta de Extremadura y se establecen medidas urgentes en respuesta a los desplazamientos de personas por razones humanitarias a causa de la guerra en Ucrania, medidas urgentes de contratación pública y medidas fiscales.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-10518",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-10518",
+     "sha256": "5f24f8e780f513ca3fff5e32f69660085c63ab2fcab5fc754354282d2d722b85"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-004",
+   "short": "Ley 4/2022, de 27 de julio",
+   "title": "Ley 4/2022, de 27 de julio, de racionalización y simplificación administrativa de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-13598",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-13598",
+     "sha256": "360524875a67f242264759bb92d742c7a09a1469f84de38fcf33ca3ea13a0c22"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-13598",
+     "sha256": "360524875a67f242264759bb92d742c7a09a1469f84de38fcf33ca3ea13a0c22"
+    },
+    {
+     "from": "2023-01-29",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-13598",
+     "sha256": "360524875a67f242264759bb92d742c7a09a1469f84de38fcf33ca3ea13a0c22"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-005",
+   "short": "Ley 5/2022, de 25 de noviembre",
+   "title": "Ley 5/2022, de 25 de noviembre, de medidas de mejora de los procesos de respuesta administrativa a la ciudadanía y para la prestación útil de los servicios públicos.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-21019",
+   "versions": [
+    {
+     "from": "2022-11-30",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-21019",
+     "sha256": "3cc34aae492c2596a57e70644afaecad82fb63500c04bfce63826cec1c01200c"
+    },
+    {
+     "from": "2026-07-04",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-21019",
+     "sha256": "3cc34aae492c2596a57e70644afaecad82fb63500c04bfce63826cec1c01200c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-001",
+   "short": "Ley 1/2023, de 2 de marzo",
+   "title": "Ley 1/2023, de 2 de marzo, de gestión y ciclo urbano del agua de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-6662",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 44,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-6662",
+     "sha256": "7a8208009c9b2d148111f03a82dafa0dd9bb68b3deb2559574e75b6d80d10a1b"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2023-002",
+   "short": "Decreto-ley 2/2023, de 8 de marzo",
+   "title": "Decreto-ley 2/2023, de 8 de marzo, de medidas urgentes de impulso a la inteligencia artificial en Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-8795",
+   "versions": [
+    {
+     "from": "2023-03-11",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-8795",
+     "sha256": "b73875046ad8410620258ffc3680ee09bbd887929954805d48f14287673aabb3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-002",
+   "short": "Ley 2/2023, de 22 de marzo",
+   "title": "Ley 2/2023, de 22 de marzo, por la que se regulan determinados aspectos de la Red ecológica europea Natura 2000 en la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-8306",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 15,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-8306",
+     "sha256": "b67c62b77293e0d01167780d78fc3db7caa55264fe823d398e3f8df1f472527a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-003",
+   "short": "Ley 3/2023, de 29 de marzo",
+   "title": "Ley 3/2023, de 29 de marzo, de Cooperación y Solidaridad Internacional de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-9097",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 36,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-9097",
+     "sha256": "b413943e6ec4b8effa9ff9291fae2d9b8076db8ba035a83f874aeaca1e752c73"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2024-002",
+   "short": "Ley 2/2024, de 12 de abril",
+   "title": "Ley 2/2024, de 12 de abril, para la aplicación al municipio de Badajoz del régimen de organización de municipios de gran población.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-8368",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 4,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-8368",
+     "sha256": "921a5be4ef757c807bfb4707dc8b5de82190d2c9cb78e9785c0a2d8ce36e9a61"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2025-004",
+   "short": "Ley 4/2025, de 15 de octubre",
+   "title": "Ley 4/2025, de 15 de octubre, de Concordia de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-21454",
+   "versions": [
+    {
+     "from": "2025-10-18",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2025-21454",
+     "sha256": "12a5b10c719408227ff57b0087aa81a0b71098cfd76796d060baa93508211963"
+    },
+    {
+     "from": "2026-09-21",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2025-21454",
+     "sha256": "12a5b10c719408227ff57b0087aa81a0b71098cfd76796d060baa93508211963"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-2026-004",
+   "short": "Decreto-ley 4/2026, de 28 de julio",
+   "title": "Decreto-ley 4/2026, de 28 de julio, de actuaciones urgentes en materia de urbanismo para la agilización de la aprobación del planeamiento y su ejecución para el impulso a la promoción de vivienda.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-19429",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 15,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2026-19429",
+     "sha256": "1dd7df3d5712ecb8eff9260719bbb6c22357c0555f516441b28234806a96dd0f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1984-004",
+   "short": "Ley 4/1984, de 27 de diciembre",
+   "title": "Ley 4/1984, de 27 de diciembre, de Ferias y Mercados de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-9383",
+   "versions": [
+    {
+     "from": "1985-02-20",
+     "units": 27,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-9383",
+     "sha256": "09fccb2336636ff7bbb60206b59740cd6daed15ba96f25b5d230c91c21275fd4"
+    },
+    {
+     "from": "2001-08-29",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-9383",
+     "sha256": "09fccb2336636ff7bbb60206b59740cd6daed15ba96f25b5d230c91c21275fd4"
+    },
+    {
+     "from": "2010-12-09",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-9383",
+     "sha256": "09fccb2336636ff7bbb60206b59740cd6daed15ba96f25b5d230c91c21275fd4"
+    },
+    {
+     "from": "2015-06-26",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-9383",
+     "sha256": "09fccb2336636ff7bbb60206b59740cd6daed15ba96f25b5d230c91c21275fd4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1985-008",
+   "short": "Ley 8/1985, de 26 de noviembre",
+   "title": "Ley 8/1985, de 26 de noviembre, de Comparecencia en Juicio de la Junta de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-7306",
+   "versions": [
+    {
+     "from": "1985-12-03",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-7306",
+     "sha256": "882681c179293138ed1a85609512845dee0a765127fc01405d9204c2b3a75a00"
+    },
+    {
+     "from": "2021-05-26",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-7306",
+     "sha256": "882681c179293138ed1a85609512845dee0a765127fc01405d9204c2b3a75a00"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1990-001",
+   "short": "Ley 1/1990, de 26 de abril",
+   "title": "Ley 1/1990, de 26 de abril, de Coordinación de Policías Locales de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1990-28241",
+   "versions": [
+    {
+     "from": "1990-06-01",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-28241",
+     "sha256": "34173cb1299d21565a6774de80df8c369a7e037882fc5684de9d801cb07967f0"
+    },
+    {
+     "from": "1990-09-20",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-28241",
+     "sha256": "34173cb1299d21565a6774de80df8c369a7e037882fc5684de9d801cb07967f0"
+    },
+    {
+     "from": "1991-02-06",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-28241",
+     "sha256": "34173cb1299d21565a6774de80df8c369a7e037882fc5684de9d801cb07967f0"
+    },
+    {
+     "from": "1993-03-11",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-28241",
+     "sha256": "34173cb1299d21565a6774de80df8c369a7e037882fc5684de9d801cb07967f0"
+    },
+    {
+     "from": "2002-06-02",
+     "units": 37,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-28241",
+     "sha256": "34173cb1299d21565a6774de80df8c369a7e037882fc5684de9d801cb07967f0"
+    },
+    {
+     "from": "2014-02-21",
+     "units": 37,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-28241",
+     "sha256": "34173cb1299d21565a6774de80df8c369a7e037882fc5684de9d801cb07967f0"
+    },
+    {
+     "from": "2017-08-24",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1990-28241",
+     "sha256": "34173cb1299d21565a6774de80df8c369a7e037882fc5684de9d801cb07967f0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1997-006",
+   "short": "Ley 6/1997, de 29 de mayo",
+   "title": "Ley 6/1997, de 29 de mayo, de Bibliotecas de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-17827",
+   "versions": [
+    {
+     "from": "1997-07-18",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-17827",
+     "sha256": "a59822f9bed54f8f9e91aae7985e549d1e530f936c0efa68b4767971a892c599"
+    },
+    {
+     "from": "2022-04-06",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-17827",
+     "sha256": "a59822f9bed54f8f9e91aae7985e549d1e530f936c0efa68b4767971a892c599"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1998-002",
+   "short": "Ley 2/1998, de 26 de marzo",
+   "title": "Ley 2/1998, de 26 de marzo, de Sociedades Cooperativas de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-12457",
+   "versions": [
+    {
+     "from": "1998-07-02",
+     "units": 200,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-12457",
+     "sha256": "9153e4e49cc0d7cef7afe9d7bc37bfd1d356bb95bb6d0f5d6b7fb176f8dd3a36"
+    },
+    {
+     "from": "2002-01-01",
+     "units": 200,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-12457",
+     "sha256": "9153e4e49cc0d7cef7afe9d7bc37bfd1d356bb95bb6d0f5d6b7fb176f8dd3a36"
+    },
+    {
+     "from": "2007-01-19",
+     "units": 201,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-12457",
+     "sha256": "9153e4e49cc0d7cef7afe9d7bc37bfd1d356bb95bb6d0f5d6b7fb176f8dd3a36"
+    },
+    {
+     "from": "2011-11-18",
+     "units": 201,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-12457",
+     "sha256": "9153e4e49cc0d7cef7afe9d7bc37bfd1d356bb95bb6d0f5d6b7fb176f8dd3a36"
+    },
+    {
+     "from": "2019-01-02",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-12457",
+     "sha256": "9153e4e49cc0d7cef7afe9d7bc37bfd1d356bb95bb6d0f5d6b7fb176f8dd3a36"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-003",
+   "short": "Ley 3/2001, de 26 de abril",
+   "title": "Ley 3/2001, de 26 de abril, de la Calidad, Promoción y Acceso a la Vivienda de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-12265",
+   "versions": [
+    {
+     "from": "2001-08-29",
+     "units": 93,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-12265",
+     "sha256": "481f62bcbfed3665d4755e6a3805dc0ef1a42b194dccacfabd73fe5aabe5653f"
+    },
+    {
+     "from": "2017-03-14",
+     "units": 95,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-12265",
+     "sha256": "481f62bcbfed3665d4755e6a3805dc0ef1a42b194dccacfabd73fe5aabe5653f"
+    },
+    {
+     "from": "2017-12-21",
+     "units": 95,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-12265",
+     "sha256": "481f62bcbfed3665d4755e6a3805dc0ef1a42b194dccacfabd73fe5aabe5653f"
+    },
+    {
+     "from": "2018-03-28",
+     "units": 95,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-12265",
+     "sha256": "481f62bcbfed3665d4755e6a3805dc0ef1a42b194dccacfabd73fe5aabe5653f"
+    },
+    {
+     "from": "2018-11-01",
+     "units": 95,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-12265",
+     "sha256": "481f62bcbfed3665d4755e6a3805dc0ef1a42b194dccacfabd73fe5aabe5653f"
+    },
+    {
+     "from": "2019-05-07",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-12265",
+     "sha256": "481f62bcbfed3665d4755e6a3805dc0ef1a42b194dccacfabd73fe5aabe5653f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-006",
+   "short": "Ley 6/2001, de 24 de mayo",
+   "title": "Ley 6/2001, de 24 de mayo, del Estatuto de los Consumidores de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-14031",
+   "versions": [
+    {
+     "from": "2001-07-13",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14031",
+     "sha256": "eccf54a0c7f1e678d185ce2abc3a4204820895728078df9f8d48e3f10c1a158f"
+    },
+    {
+     "from": "2002-06-17",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14031",
+     "sha256": "eccf54a0c7f1e678d185ce2abc3a4204820895728078df9f8d48e3f10c1a158f"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14031",
+     "sha256": "eccf54a0c7f1e678d185ce2abc3a4204820895728078df9f8d48e3f10c1a158f"
+    },
+    {
+     "from": "2016-12-15",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14031",
+     "sha256": "eccf54a0c7f1e678d185ce2abc3a4204820895728078df9f8d48e3f10c1a158f"
+    },
+    {
+     "from": "2017-08-18",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14031",
+     "sha256": "eccf54a0c7f1e678d185ce2abc3a4204820895728078df9f8d48e3f10c1a158f"
+    },
+    {
+     "from": "2018-02-24",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14031",
+     "sha256": "eccf54a0c7f1e678d185ce2abc3a4204820895728078df9f8d48e3f10c1a158f"
+    },
+    {
+     "from": "2019-02-27",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-14031",
+     "sha256": "eccf54a0c7f1e678d185ce2abc3a4204820895728078df9f8d48e3f10c1a158f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-015",
+   "short": "Ley 15/2001, de 14 de diciembre",
+   "title": "Ley 15/2001, de 14 de diciembre, del Suelo y Ordenación Territorial de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-2286",
+   "versions": [
+    {
+     "from": "2002-01-23",
+     "units": 233,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2286",
+     "sha256": "a35e09c55a1a7bcbe15e3c2ebdedb8074157e309eee98bb8c8fcedf9679e69f4"
+    },
+    {
+     "from": "2002-06-04",
+     "units": 233,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2286",
+     "sha256": "a35e09c55a1a7bcbe15e3c2ebdedb8074157e309eee98bb8c8fcedf9679e69f4"
+    },
+    {
+     "from": "2002-07-24",
+     "units": 233,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2286",
+     "sha256": "a35e09c55a1a7bcbe15e3c2ebdedb8074157e309eee98bb8c8fcedf9679e69f4"
+    },
+    {
+     "from": "2002-10-15",
+     "units": 233,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2286",
+     "sha256": "a35e09c55a1a7bcbe15e3c2ebdedb8074157e309eee98bb8c8fcedf9679e69f4"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 233,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2286",
+     "sha256": "a35e09c55a1a7bcbe15e3c2ebdedb8074157e309eee98bb8c8fcedf9679e69f4"
+    },
+    {
+     "from": "2010-11-09",
+     "units": 237,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2286",
+     "sha256": "a35e09c55a1a7bcbe15e3c2ebdedb8074157e309eee98bb8c8fcedf9679e69f4"
+    },
+    {
+     "from": "2010-12-09",
+     "units": 237,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2286",
+     "sha256": "a35e09c55a1a7bcbe15e3c2ebdedb8074157e309eee98bb8c8fcedf9679e69f4"
+    },
+    {
+     "from": "2011-03-31",
+     "units": 237,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2286",
+     "sha256": "a35e09c55a1a7bcbe15e3c2ebdedb8074157e309eee98bb8c8fcedf9679e69f4"
+    },
+    {
+     "from": "2011-09-27",
+     "units": 237,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2286",
+     "sha256": "a35e09c55a1a7bcbe15e3c2ebdedb8074157e309eee98bb8c8fcedf9679e69f4"
+    },
+    {
+     "from": "2011-12-23",
+     "units": 237,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2286",
+     "sha256": "a35e09c55a1a7bcbe15e3c2ebdedb8074157e309eee98bb8c8fcedf9679e69f4"
+    },
+    {
+     "from": "2012-07-30",
+     "units": 237,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2286",
+     "sha256": "a35e09c55a1a7bcbe15e3c2ebdedb8074157e309eee98bb8c8fcedf9679e69f4"
+    },
+    {
+     "from": "2015-04-11",
+     "units": 241,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2286",
+     "sha256": "a35e09c55a1a7bcbe15e3c2ebdedb8074157e309eee98bb8c8fcedf9679e69f4"
+    },
+    {
+     "from": "2018-05-16",
+     "units": 241,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2286",
+     "sha256": "a35e09c55a1a7bcbe15e3c2ebdedb8074157e309eee98bb8c8fcedf9679e69f4"
+    },
+    {
+     "from": "2019-06-27",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2286",
+     "sha256": "a35e09c55a1a7bcbe15e3c2ebdedb8074157e309eee98bb8c8fcedf9679e69f4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-017",
+   "short": "Ley 17/2001, de 14 de diciembre",
+   "title": "Ley 17/2001, de 14 de diciembre, de Cámaras Oficiales de Comercio e Industria de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-2333",
+   "versions": [
+    {
+     "from": "2002-01-23",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2333",
+     "sha256": "cb4d30a64691d316d3c393d5cb176c2f9ff3ee4e1c4e1b3bbf2260b0f3e13e88"
+    },
+    {
+     "from": "2018-02-24",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2333",
+     "sha256": "cb4d30a64691d316d3c393d5cb176c2f9ff3ee4e1c4e1b3bbf2260b0f3e13e88"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-006",
+   "short": "Ley 6/2002, de 27 de junio",
+   "title": "Ley 6/2002, de 27 de junio, de medidas de apoyo en materia de autopromoción de viviendas, accesibilidad y suelo.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-16785",
+   "versions": [
+    {
+     "from": "2002-07-24",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-16785",
+     "sha256": "1ef9a177cace0be50318568fbfd8f3df0b434232a901c448654dd6549bc68228"
+    },
+    {
+     "from": "2019-05-07",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-16785",
+     "sha256": "1ef9a177cace0be50318568fbfd8f3df0b434232a901c448654dd6549bc68228"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-001",
+   "short": "Ley 1/2003, de 27 de febrero",
+   "title": "Ley 1/2003, de 27 de febrero, de Cooperación para el Desarrollo.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-7534",
+   "versions": [
+    {
+     "from": "2003-03-19",
+     "units": 27,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-7534",
+     "sha256": "2688deadb83d67d46ee3b33068793a56f3dc090b12f64f5206b5371543dd2436"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 27,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-7534",
+     "sha256": "2688deadb83d67d46ee3b33068793a56f3dc090b12f64f5206b5371543dd2436"
+    },
+    {
+     "from": "2023-04-01",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-7534",
+     "sha256": "2688deadb83d67d46ee3b33068793a56f3dc090b12f64f5206b5371543dd2436"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-002",
+   "short": "Ley 2/2003, de 13 de marzo",
+   "title": "Ley 2/2003, de 13 de marzo, de la convivencia y el ocio de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-7535",
+   "versions": [
+    {
+     "from": "2003-03-23",
+     "units": 32,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-7535",
+     "sha256": "f1ba20724f5501085a728687afc86cece7d9d63525671d0248f2966ac2620a93"
+    },
+    {
+     "from": "2017-03-04",
+     "units": 32,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-7535",
+     "sha256": "f1ba20724f5501085a728687afc86cece7d9d63525671d0248f2966ac2620a93"
+    },
+    {
+     "from": "2018-11-08",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-7535",
+     "sha256": "f1ba20724f5501085a728687afc86cece7d9d63525671d0248f2966ac2620a93"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-001",
+   "short": "Ley 1/2004, de 19 de febrero",
+   "title": "Ley 1/2004, de 19 de febrero, de creación de la Empresa Pública \"Gestión de Infraestructuras, Suelo y Vivienda de Extremadura\".",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-5194",
+   "versions": [
+    {
+     "from": "2004-03-07",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-5194",
+     "sha256": "5c28cd6dd4ef5d65631125979597471485d96c80e58aa8680cd0a404da381157"
+    },
+    {
+     "from": "2020-02-04",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-5194",
+     "sha256": "5c28cd6dd4ef5d65631125979597471485d96c80e58aa8680cd0a404da381157"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2009-007",
+   "short": "Ley 7/2009, de 17 de diciembre",
+   "title": "Ley 7/2009, de 17 de diciembre, de enajenación de viviendas de la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-598",
+   "versions": [
+    {
+     "from": "2010-01-11",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-598",
+     "sha256": "d969c4f90a500716d4c5f9672ffd1c9cffbbfd360c19750874c2083b6c70b6be"
+    },
+    {
+     "from": "2014-02-21",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-598",
+     "sha256": "d969c4f90a500716d4c5f9672ffd1c9cffbbfd360c19750874c2083b6c70b6be"
+    },
+    {
+     "from": "2019-05-07",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-598",
+     "sha256": "d969c4f90a500716d4c5f9672ffd1c9cffbbfd360c19750874c2083b6c70b6be"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2016-004",
+   "short": "Ley 4/2016, de 6 de mayo",
+   "title": "Ley 4/2016, de 6 de mayo, para el establecimiento de un régimen sancionador en materia de espectáculos públicos y actividades recreativas en la Comunidad Autónoma de Extremadura.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-5205",
+   "versions": [
+    {
+     "from": "2016-05-09",
+     "units": 17,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-5205",
+     "sha256": "0b59ba3a593afc754d97f2dd96c7481c70d046cbcdc839a8401260192631a662"
+    },
+    {
+     "from": "2019-04-10",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-5205",
+     "sha256": "0b59ba3a593afc754d97f2dd96c7481c70d046cbcdc839a8401260192631a662"
+    }
+   ]
+  }
+ ]
+}

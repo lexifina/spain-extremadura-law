@@ -1,0 +1,11 @@
+{
+  "path": "es-ex",
+  "code": "ES-EX",
+  "name": "Extremadura",
+  "level": "autonomous community",
+  "parent": "es",
+  "repo": "https://github.com/lexifina/spain-extremadura-law",
+  "build": "built: statute of autonomy and laws (181 norms, 567 versions) from BOE legislación consolidada",
+  "language": "es",
+  "sources": 1
+}
