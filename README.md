@@ -10,7 +10,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 
 ## What this repository holds
 
-181 norms with 567 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 15 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
+184 norms with 574 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 18 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
 
 | Folder | Norm | Versions | History | BOE last updated |
 | --- | --- | ---: | --- | --- |
@@ -195,6 +195,9 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `ley-2004-001/` | Ley 1/2004, de 19 de febrero, de creación de la Empresa Pública "Gestión de Infraestructuras, Suelo y Vivienda de Extremadura". | 2 | as first published, then each change: 7 March 2004 to 4 February 2020; **repealed** 4 February 2020 by Ley 1/2020, de 31 de enero (BOE-A-2020-2458) | 2025-12-18 |
 | `ley-2009-007/` | Ley 7/2009, de 17 de diciembre, de enajenación de viviendas de la Comunidad Autónoma de Extremadura. | 3 | as first published, then each change: 11 January 2010 to 7 May 2019; **repealed** 7 May 2019 by Ley 11/2019, de 11 de abril (BOE-A-2019-7224) | 2025-12-19 |
 | `ley-2016-004/` | Ley 4/2016, de 6 de mayo, para el establecimiento de un régimen sancionador en materia de espectáculos públicos y actividades recreativas en la Comunidad Autónoma de Extremadura. | 2 | as first published, then each change: 9 May 2016 to 10 April 2019; **repealed** 10 April 2019 by Ley 7/2019, de 5 de abril (BOE-A-2019-7220) | 2025-12-19 |
+| `decreto-legislativo-2005-001/` | Decreto Legislativo 1/2005, de 21 de junio, por el que se aprueba el Texto Articulado de las Bases establecidas por el artículo 5 de la Ley 10/2004, de 29 de diciembre, de Regulación y Bases de la Agencia Extremeña de la vivienda, el Urbanismo y el Territorio. | 2 | oldest version available, then each change: 28 June 2005 to 27 May 2008; **repealed** 27 May 2008 by Ley 1/2008, de 22 de mayo (BOE-A-2008-10058) | 2024-11-04 |
+| `ley-2010-005/` | Ley 5/2010, de 23 de junio, de prevención y calidad ambiental de la Comunidad Autónoma de Extremadura. | 3 | as first published, then each change: 24 September 2010 to 29 June 2015; **repealed** 29 June 2015 by Ley 16/2015, de 23 de abril (BOE-A-2015-5490) | 2025-12-19 |
+| `decreto-ley-2014-004/` | Decreto-ley 4/2014, de 26 de agosto, por el que se regula la Renta Básica Extremeña de Inserción. | 2 | as first published, then each change: 30 August 2014 to 3 October 2014; **repealed** 3 October 2014 by BOE-A-2014-10746 | 2025-12-19 |
 
 ## Source
 
